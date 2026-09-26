@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vacom - Garan naljepnice</title>
+  <meta name="author" content="Marin Cvetko" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Vacom - Garan naljepnice</h1>
+  <p hidden>
+    Koristite znak <strong>*</strong> kod traženja novo dodanih modela.
+    <span id="lastUpdate"></span>
+  </p>
+  <p>U desnom kutu imate strelice za putovanje na vrh/dno stranice.</p>
+
+  <div id="filters">
+    <label for="searchInput">Traži po Modelu:</label>
+    <input type="text" id="searchInput" placeholder="Upiši model..." />
+
+    <label for="brandFilter">Filter po Marki:</label>
+    <select id="brandFilter">
+      <option value="all">Sve</option>
+    </select>
+  </div>
+
+  <table id="imageTable">
+    <thead>
+      <tr>
+        <th>Označi za print</th>
+        <th>Model</th>
+        <th>Marka</th>
+        <th>Slika</th>
+        <th>Količina</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <br>
+
+  <button id="printBtn" type="button">Isprintaj označeno</button>
+  <span id="totalModelCount"></span>
+
+  <br><br>
+
+  <label id="printBtnLabel">
+    Papir A4, 6 naljepnica po stranici (3 × 2)<br>
+    Veličina svake naljepnice: 9 cm × 9 cm<br><br>
+    Ukoliko nešto ne radi:<br>
+    marin.cvetko123@gmail.com | ludbreg@vacom.hr 
+  </label>
+
+  <iframe id="printFrame" title="Print frame"></iframe>
+
+  <script src="script.js"></script>
+</body>
+</html>

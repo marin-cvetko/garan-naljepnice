@@ -408,7 +408,7 @@ printBtn.addEventListener("click", () => {
         pageLabels.forEach(item => {
 
             const imagePath =
-                `./print/${encodeURIComponent(item.folder)}/${encodeURIComponent(item.filename)}`;
+                `https://6ab7e7762dcca944b1389061--garan-naljepnice.netlify.app/print/${encodeURIComponent(item.folder)}/${encodeURIComponent(item.filename)}`;
 
             pagesHtml += `
                 <div class="label">

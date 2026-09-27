@@ -39,7 +39,7 @@ h1 {
 }
 
 table {
-  width: 70%;
+  width: 50%;
   border-collapse: collapse;
   background-color: #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
@@ -57,7 +57,7 @@ td {
 th {
   background-color: #0073c2;
   color: #fff;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 td a {
@@ -112,9 +112,25 @@ button:hover {
 #imageTable th:first-child,
 #imageTable td:first-child {
   width: 110px;
+  height: 20px;
   white-space: nowrap;
   text-align: center;
   vertical-align: middle;
+}
+
+#imageTable input[type="checkbox"] {
+  transform: scale(1.7);
+  accent-color: #0073c2;
+  cursor: pointer;
+}
+
+#imageTable input[type="number"] {
+  width: 60px;
+  padding: 5px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-align: center;
 }
 
 #imageTable th:last-child,
@@ -135,7 +151,7 @@ button:hover {
 #pageJumpButtons {
   position: fixed;
   right: 18px;
-  bottom: 20px;
+  top: 20px;
   z-index: 9999;
   display: flex;
   flex-direction: column;
@@ -143,8 +159,8 @@ button:hover {
 }
 
 #pageJumpButtons button {
-  width: 44px;
-  height: 44px;
+  width: 60px;
+  height: 60px;
   padding: 0;
   border-radius: 50%;
   display: flex;
@@ -156,6 +172,7 @@ button:hover {
 }
 
 @media screen and (max-width: 768px) {
+
   table,
   thead,
   tbody,

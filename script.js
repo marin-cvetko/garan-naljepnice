@@ -1,8 +1,44 @@
-loadProducts();
 let imageFiles = [];
 
 const selectedImages = new Map();
 const quantities = new Map();
+
+// ============================================================
+// POSTAVKE ISPISA — mijenjaj ove vrijednosti po potrebi (u mm)
+// A4 landscape ostaje uvijek 297 × 210 mm.
+// ============================================================
+
+const PRINT_SETTINGS = Object.freeze({
+    labelWidthMm: 90,
+    labelHeightMm: 90,
+    columnGapMm: 0,
+    rowGapMm: 2
+});
+
+const A4_LANDSCAPE = Object.freeze({
+    widthMm: 297,
+    heightMm: 210
+});
+
+function getPrintLayout() {
+    const { labelWidthMm, labelHeightMm, columnGapMm, rowGapMm } = PRINT_SETTINGS;
+
+    const columns = Math.floor(
+        (A4_LANDSCAPE.widthMm + columnGapMm) /
+        (labelWidthMm + columnGapMm)
+    );
+
+    const rows = Math.floor(
+        (A4_LANDSCAPE.heightMm + rowGapMm) /
+        (labelHeightMm + rowGapMm)
+    );
+
+    return {
+        columns,
+        rows,
+        labelsPerPage: columns * rows
+    };
+}
 
 const table = document.getElementById("imageTable");
 const tbody = table.querySelector("tbody");
@@ -11,6 +47,7 @@ const searchInput = document.getElementById("searchInput");
 const brandFilter = document.getElementById("brandFilter");
 const printBtn = document.getElementById("printBtn");
 const totalModelCount = document.getElementById("totalModelCount");
+const printInfo = document.getElementById("printInfo");
 
 
 // ============================================================
@@ -27,9 +64,19 @@ async function loadProducts() {
             throw new Error(`HTTP greška: ${response.status}`);
         }
 
-        imageFiles = await response.json();
+        const catalog = await response.json();
+
+        // Novi format grupira zajedničku marku i mapu jednom,
+        // umjesto da ih ponavlja uz svaki proizvod. Podržan je i
+        // stari format niza kako bi se mogla koristiti stara kopija baze.
+        imageFiles = Array.isArray(catalog)
+            ? catalog
+            : catalog.brands.flatMap(({ name: brand, folder, products }) =>
+                products.map(product => ({ ...product, brand, folder }))
+            );
 
         updateBrandFilter();
+        updatePrintInfo();
         renderTable();
 
     } catch (error) {
@@ -45,6 +92,24 @@ async function loadProducts() {
             </tr>
         `;
     }
+}
+
+
+function updatePrintInfo() {
+    const layout = getPrintLayout();
+
+    if (layout.labelsPerPage < 1) {
+        printInfo.textContent =
+            "Odabrana veličina naljepnice ne stane na A4 papir.";
+        return;
+    }
+
+    printInfo.innerHTML = `
+        Papir A4, ${layout.labelsPerPage} naljepnica po stranici
+        (${layout.columns} × ${layout.rows})<br>
+        Veličina naljepnice: ${PRINT_SETTINGS.labelWidthMm / 10} cm ×
+        ${PRINT_SETTINGS.labelHeightMm / 10} cm<br>
+    `;
 }
 
 
@@ -278,6 +343,13 @@ brandFilter.addEventListener("change", renderTable);
 
 printBtn.addEventListener("click", () => {
 
+    const layout = getPrintLayout();
+
+    if (layout.labelsPerPage < 1) {
+        alert("Odabrana veličina naljepnice ne stane na A4 papir.");
+        return;
+    }
+
     if (selectedImages.size === 0) {
         alert("Nije odabran niti jedan artikl.");
         return;
@@ -325,9 +397,9 @@ printBtn.addEventListener("click", () => {
 
     let pagesHtml = "";
 
-    for (let i = 0; i < labels.length; i += 6) {
+    for (let i = 0; i < labels.length; i += layout.labelsPerPage) {
 
-        const pageLabels = labels.slice(i, i + 6);
+        const pageLabels = labels.slice(i, i + layout.labelsPerPage);
 
         pagesHtml += `
             <div class="page">
@@ -348,10 +420,10 @@ printBtn.addEventListener("click", () => {
             `;
         });
 
-        // Ako zadnja stranica nema 6 naljepnica,
+        // Ako zadnja stranica nema sve naljepnice,
         // popuni praznim poljima radi pravilnog rasporeda.
 
-        while (pageLabels.length < 6) {
+        while (pageLabels.length < layout.labelsPerPage) {
 
             pagesHtml += `
                 <div class="label empty"></div>
@@ -368,7 +440,7 @@ printBtn.addEventListener("click", () => {
 
     printWindow.document.open();
 
-printWindow.document.write(`
+    printWindow.document.write(`
     <!DOCTYPE html>
 
     <html lang="hr">
@@ -410,16 +482,15 @@ printWindow.document.write(`
                 display: grid;
 
                 grid-template-columns:
-                    repeat(3, 90mm);
+                    repeat(${layout.columns}, ${PRINT_SETTINGS.labelWidthMm}mm);
 
                 grid-template-rows:
-                    repeat(2, 90mm);
+                    repeat(${layout.rows}, ${PRINT_SETTINGS.labelHeightMm}mm);
 
-                /* 0.2 cm = 2 mm */
-                column-gap: 0mm;
-                row-gap: 2mm;
+                column-gap: ${PRINT_SETTINGS.columnGapMm}mm;
+                row-gap: ${PRINT_SETTINGS.rowGapMm}mm;
 
-                /* Center entire 3x2 group on A4 */
+                /* Centriraj cijelu grupu naljepnica na A4 */
                 justify-content: center;
                 align-content: center;
 
@@ -435,8 +506,8 @@ printWindow.document.write(`
 
             .label {
 
-                width: 90mm;
-                height: 90mm;
+                width: ${PRINT_SETTINGS.labelWidthMm}mm;
+                height: ${PRINT_SETTINGS.labelHeightMm}mm;
 
                 display: flex;
 
@@ -453,8 +524,8 @@ printWindow.document.write(`
 
                 display: block;
 
-                width: 90mm;
-                height: 90mm;
+                width: ${PRINT_SETTINGS.labelWidthMm}mm;
+                height: ${PRINT_SETTINGS.labelHeightMm}mm;
 
                 object-fit: contain;
 

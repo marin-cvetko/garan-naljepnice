@@ -794,7 +794,7 @@
         },
         {
           "filename": "klima_URC1035.jpg",
-          "model": "klima_URC1035"
+          "model": "Klima_URC1035"
         },
         {
           "filename": "LG_TV_URC4911.jpg",
@@ -802,15 +802,15 @@
         },
         {
           "filename": "nosac_WM2621.jpg",
-          "model": "nosac_WM2621"
+          "model": "Nosac_WM2621"
         },
         {
           "filename": "nosac_WM4661.jpg",
-          "model": "nosac_WM4661"
+          "model": "Nosac_WM4661"
         },
         {
           "filename": "nosac_WM4910.jpg",
-          "model": "nosac_WM4910"
+          "model": "Nosac_WM4910"
         },
         {
           "filename": "Panasonic_TV_URC4914.jpg",
@@ -11898,15 +11898,15 @@
       "products": [
         {
           "filename": "MicroStar Int Storage SSD.png",
-          "model": "MicroStar Int Storage SSD"
+          "model": "MicroStar International Storage SSD"
         },
         {
           "filename": "MicroStar Int Storage VGA.png",
-          "model": "MicroStar Int Storage VGA"
+          "model": "MicroStar International VGA Grafička"
         },
         {
           "filename": "MicroStar Int Storage WiFi USB.png",
-          "model": "MicroStar Int Storage WiFi USB"
+          "model": "MicroStar International WiFi USB"
         }
       ]
     },

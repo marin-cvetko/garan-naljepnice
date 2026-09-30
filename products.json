@@ -8047,8 +8047,8 @@
           "model": "SWEATSHIRT-W-XXL"
         },
         {
-          "filename": "�ALICA-IUCN.png",
-          "model": "�ALICA-IUCN"
+          "filename": "SALICA-IUCN.png",
+          "model": "SALICA-IUCN"
         },
         {
           "filename": "TACHI-B-US.png",
@@ -8435,7 +8435,7 @@
           "model": "WS-354P-2X35"
         },
         {
-          "filename": "WS-�ARAPA_45-47.png",
+          "filename": "WS-CARAPA_45-47.png",
           "model": "WS-CARAPA_45-47"
         },
         {
@@ -8493,6 +8493,4550 @@
         {
           "filename": "ZONIS.png",
           "model": "ZONIS"
+        }
+      ]
+    },
+    {
+      "name": "CORSAIR",
+      "folder": "Corsair",
+      "products": [
+        {
+          "filename": "ACE_WS_wvg89y.jpg",
+          "model": "ACE_WS"
+        },
+        {
+          "filename": "AX1000_mcydnx.jpg",
+          "model": "AX1000"
+        },
+        {
+          "filename": "AX850_cpglcc.jpg",
+          "model": "AX850"
+        },
+        {
+          "filename": "AXi_gghpuv.jpg",
+          "model": "AXi"
+        },
+        {
+          "filename": "DOMINATOR-TITANIUM_dak0kz.jpg",
+          "model": "DOMINATOR-TITANIUM"
+        },
+        {
+          "filename": "HX_nsyikl.jpg",
+          "model": "HX"
+        },
+        {
+          "filename": "HXi_eksqtb.jpg",
+          "model": "HXi"
+        },
+        {
+          "filename": "HXi_SHIFT_enm6nb.jpg",
+          "model": "HXi_SHIFT"
+        },
+        {
+          "filename": "RM_2019_2021_jreldz.jpg",
+          "model": "RM_2019_2021"
+        },
+        {
+          "filename": "RM1200e_v9cjtv.jpg",
+          "model": "RM1200e"
+        },
+        {
+          "filename": "RMi_hrnogq.jpg",
+          "model": "RMi"
+        },
+        {
+          "filename": "RMx_iioviv.jpg",
+          "model": "RMx"
+        },
+        {
+          "filename": "RMx_SHIFT_vihj1h.jpg",
+          "model": "RMx_SHIFT"
+        },
+        {
+          "filename": "SF_PCIe_5_gpz66q.jpg",
+          "model": "SF_PCIe_5"
+        },
+        {
+          "filename": "VENGEANCE-CUDIMM-DDR5_usdian.jpg",
+          "model": "VENGEANCE-CUDIMM-DDR5"
+        },
+        {
+          "filename": "VENGEANCE-DDR5_zfyyey.jpg",
+          "model": "VENGEANCE-DDR5"
+        },
+        {
+          "filename": "VENGEANCE-LPX_rxge1k.jpg",
+          "model": "VENGEANCE-LPX"
+        },
+        {
+          "filename": "VENGEANCE-RGB-CUDIMM-DDR5_ztjqxr.jpg",
+          "model": "VENGEANCE-RGB-CUDIMM-DDR5"
+        },
+        {
+          "filename": "VENGEANCE-RGB-DDR5_qr9nny.jpg",
+          "model": "VENGEANCE-RGB-DDR5"
+        },
+        {
+          "filename": "VENGEANCE-RGB-PRO_hulehe.jpg",
+          "model": "VENGEANCE-RGB-PRO"
+        },
+        {
+          "filename": "VENGEANCE-RGB-PRO-SL_tqpt1r.jpg",
+          "model": "VENGEANCE-RGB-PRO-SL"
+        },
+        {
+          "filename": "VENGEANCE-RGB-RS-DDR5_ic5pz6.jpg",
+          "model": "VENGEANCE-RGB-RS-DDR5"
+        },
+        {
+          "filename": "VENGEANCE-RS-DDR5_ncddnz.jpg",
+          "model": "VENGEANCE-RS-DDR5"
+        },
+        {
+          "filename": "VENGEANCE-SODIMM-DDR4_ftkwuo.jpg",
+          "model": "VENGEANCE-SODIMM-DDR4"
+        },
+        {
+          "filename": "VENGEANCE-SODIMM-DDR5_hnozlv.jpg",
+          "model": "VENGEANCE-SODIMM-DDR5"
+        },
+        {
+          "filename": "WS_vdi0bi.jpg",
+          "model": "WS"
+        },
+        {
+          "filename": "AF_SLIM_kzqpwm.jpg",
+          "model": "AF_SLIM"
+        },
+        {
+          "filename": "Builder_eiu44w.jpg",
+          "model": "Builder"
+        },
+        {
+          "filename": "COMMANDER_DUO_gvfgml.jpg",
+          "model": "COMMANDER_DUO"
+        },
+        {
+          "filename": "CV_ozwafh.jpg",
+          "model": "CV"
+        },
+        {
+          "filename": "Hydro_X_XD5_RGB_giiixb.jpg",
+          "model": "Hydro_X_XD5_RGB"
+        },
+        {
+          "filename": "Hydro_X_XR5_NEO_V2_menbed.jpg",
+          "model": "Hydro_X_XR5_NEO_V2"
+        },
+        {
+          "filename": "Hydro_X_XR5_V2_d7dezc.jpg",
+          "model": "Hydro_X_XR5_V2"
+        },
+        {
+          "filename": "AF_RGB_SLIM_bthbzz.jpg",
+          "model": "AF_RGB_SLIM"
+        },
+        {
+          "filename": "XC7_RGB_ELITE_sex99q.jpg",
+          "model": "XC7_RGB_ELITE"
+        },
+        {
+          "filename": "XC7_RGB_ELITE_LCD_joxbkw.jpg",
+          "model": "XC7_RGB_ELITE_LCD"
+        },
+        {
+          "filename": "XD5_RGB_ELITE_LCD_n9azv0.jpg",
+          "model": "XD5_RGB_ELITE_LCD"
+        },
+        {
+          "filename": "XD5_RGB_ELITE_ahnvfz.jpg",
+          "model": "XD5_RGB_ELITE"
+        },
+        {
+          "filename": "XD6_RGB_ELITE_LCD_qiydgm.jpg",
+          "model": "XD6_RGB_ELITE_LCD"
+        },
+        {
+          "filename": "XD6_RGB_ELITE_e4qicz.jpg",
+          "model": "XD6_RGB_ELITE"
+        },
+        {
+          "filename": "XENEON_EDGE_vgride.jpg",
+          "model": "XENEON_EDGE"
+        },
+        {
+          "filename": "Hydro_X_XR7_V2_ur49fi.jpg",
+          "model": "Hydro_X_XR7_V2"
+        },
+        {
+          "filename": "AF_ELITE_ruhrca.jpg",
+          "model": "AF_ELITE"
+        },
+        {
+          "filename": "CX_F_dffi7r.jpg",
+          "model": "CX_F"
+        },
+        {
+          "filename": "CX_M_ckzi4n.jpg",
+          "model": "CX_M"
+        },
+        {
+          "filename": "CX_henb9x.jpg",
+          "model": "CX"
+        },
+        {
+          "filename": "AF_RGB_ELITE_yv2wei.jpg",
+          "model": "AF_RGB_ELITE"
+        },
+        {
+          "filename": "ELITE_CAPELLIX_tojnxu.jpg",
+          "model": "ELITE_CAPELLIX"
+        },
+        {
+          "filename": "ELITE_CAPELLIX_XT_jtlcj5.jpg",
+          "model": "ELITE_CAPELLIX_XT"
+        },
+        {
+          "filename": "ELITE_LCD_vx8e55.jpg",
+          "model": "ELITE_LCD"
+        },
+        {
+          "filename": "ELITE_LCD_XT_gdjq3x.jpg",
+          "model": "ELITE_LCD_XT"
+        },
+        {
+          "filename": "ELITE_RGB_si3ofz.jpg",
+          "model": "ELITE_RGB"
+        },
+        {
+          "filename": "5_Inch_LCD_Module_de2mhf.jpg",
+          "model": "5_Inch_LCD_Module"
+        },
+        {
+          "filename": "LCD_Module_hyrhba.jpg",
+          "model": "LCD_Module"
+        },
+        {
+          "filename": "LX_RGB_dndu7s.jpg",
+          "model": "LX_RGB"
+        },
+        {
+          "filename": "LXR_RGB_Reverse_f3xypr.jpg",
+          "model": "LXR_RGB_Reverse"
+        },
+        {
+          "filename": "QX_RGB_qv6sws.jpg",
+          "model": "QX_RGB"
+        },
+        {
+          "filename": "RX_txbo6a.jpg",
+          "model": "RX"
+        },
+        {
+          "filename": "RX_II_RGB_ury8pt.jpg",
+          "model": "RX_II_RGB"
+        },
+        {
+          "filename": "RX_MAX_p6btfo.jpg",
+          "model": "RX_MAX"
+        },
+        {
+          "filename": "RX_MAX_RGB_ylkt1v.jpg",
+          "model": "RX_MAX_RGB"
+        },
+        {
+          "filename": "RX_RGB_ljbcdq.jpg",
+          "model": "RX_RGB"
+        },
+        {
+          "filename": "RGB_ELITE_ipmyy6.jpg",
+          "model": "RGB_ELITE"
+        },
+        {
+          "filename": "Multi_Frame_Pegboard_alpru4.jpg",
+          "model": "Multi_Frame_Pegboard"
+        },
+        {
+          "filename": "NAUTILUS_II_RS_ARGB_gh9bnr.jpg",
+          "model": "NAUTILUS_II_RS_ARGB"
+        },
+        {
+          "filename": "NAUTILUS_II_RS_LCD_k9rqr8.jpg",
+          "model": "NAUTILUS_II_RS_LCD"
+        },
+        {
+          "filename": "NAUTILUS_II_RS_saiiew.jpg",
+          "model": "NAUTILUS_II_RS"
+        },
+        {
+          "filename": "NAUTILUS_LCD_Module_hbhqvr.jpg",
+          "model": "NAUTILUS_LCD_Module"
+        },
+        {
+          "filename": "NAUTILUS_RS_ARGB_wm3zsv.jpg",
+          "model": "NAUTILUS_RS_ARGB"
+        },
+        {
+          "filename": "NAUTILUS_RS_LCD_rtj0sg.jpg",
+          "model": "NAUTILUS_RS_LCD"
+        },
+        {
+          "filename": "NAUTILUS_RS_vlz4j4.jpg",
+          "model": "NAUTILUS_RS"
+        },
+        {
+          "filename": "Platform_4_tgsfjl.jpg",
+          "model": "Platform_4"
+        },
+        {
+          "filename": "Platform_6_hlsyli.jpg",
+          "model": "Platform_6"
+        },
+        {
+          "filename": "RS_ARGB_lvkwpb.jpg",
+          "model": "RS_ARGB"
+        },
+        {
+          "filename": "RS_z2ukcr.jpg",
+          "model": "RS"
+        },
+        {
+          "filename": "RS_II_ARGB_bf3cev.jpg",
+          "model": "RS_II_ARGB"
+        },
+        {
+          "filename": "RS_II_ei0nj2.jpg",
+          "model": "RS_II"
+        },
+        {
+          "filename": "RSR_ARGB_Reverse_kah4ez.jpg",
+          "model": "RSR_ARGB_Reverse"
+        },
+        {
+          "filename": "V650M_Silver_jf5clq.jpg",
+          "model": "V650M_Silver"
+        },
+        {
+          "filename": "V750M_Silver_vvgpuy.jpg",
+          "model": "V750M_Silver"
+        },
+        {
+          "filename": "RS_MAX_dsovc1.jpg",
+          "model": "RS_MAX"
+        },
+        {
+          "filename": "LCD_mzmeqs.jpg",
+          "model": "LCD"
+        },
+        {
+          "filename": "TITAN_II_RX_LCD_q2fvbf.jpg",
+          "model": "TITAN_II_RX_LCD"
+        },
+        {
+          "filename": "TITAN_II_RX_RGB_hviyvv.jpg",
+          "model": "TITAN_II_RX_RGB"
+        },
+        {
+          "filename": "TITAN_II_ULTRA_LX_LCD_khjfan.jpg",
+          "model": "TITAN_II_ULTRA_LX_LCD"
+        },
+        {
+          "filename": "TITAN_RX_LCD_w2xtv1.jpg",
+          "model": "TITAN_RX_LCD"
+        },
+        {
+          "filename": "TITAN_RX_RGB_jlo31g.jpg",
+          "model": "TITAN_RX_RGB"
+        },
+        {
+          "filename": "RGB_cs7q3y.jpg",
+          "model": "RGB"
+        },
+        {
+          "filename": "AX760_y9gnae.jpg",
+          "model": "AX760"
+        },
+        {
+          "filename": "AX860_h2vxhb.jpg",
+          "model": "AX860"
+        },
+        {
+          "filename": "RM_hamjfc.jpg",
+          "model": "RM"
+        },
+        {
+          "filename": "RMe_hcj7gf.jpg",
+          "model": "RMe"
+        },
+        {
+          "filename": "SF_L_mdilaq.jpg",
+          "model": "SF_L"
+        },
+        {
+          "filename": "SF_cjcxad.jpg",
+          "model": "SF"
+        },
+        {
+          "filename": "TX_M_qsekea.jpg",
+          "model": "TX_M"
+        },
+        {
+          "filename": "TX_zrhqqd.jpg",
+          "model": "TX"
+        },
+        {
+          "filename": "ACW-1_ws8vn8.jpg",
+          "model": "ACW-1"
+        },
+        {
+          "filename": "BCSS-1_dlrccz.jpg",
+          "model": "BCSS-1"
+        },
+        {
+          "filename": "BFAN-1_kj4o1g.jpg",
+          "model": "BFAN-1"
+        },
+        {
+          "filename": "BK180_AU-1_x7vm4t.jpg",
+          "model": "BK180_AU-1"
+        },
+        {
+          "filename": "BK180_EU-1_j2qcnw.jpg",
+          "model": "BK180_EU-1"
+        },
+        {
+          "filename": "BK180_JP-1_nlrjty.jpg",
+          "model": "BK180_JP-1"
+        },
+        {
+          "filename": "BK180_US-1_cfmlmd.jpg",
+          "model": "BK180_US-1"
+        },
+        {
+          "filename": "CRD-9010001-MC-1_clslzv.jpg",
+          "model": "CRD-9010001-MC-1"
+        },
+        {
+          "filename": "CRD-9010001-WW-1_i0ol0g.jpg",
+          "model": "CRD-9010001-WW-1"
+        },
+        {
+          "filename": "CRD-9010002-MC-1_hnahug.jpg",
+          "model": "CRD-9010002-MC-1"
+        },
+        {
+          "filename": "CRD-9010002-WW-1_dx3dym.jpg",
+          "model": "CRD-9010002-WW-1"
+        },
+        {
+          "filename": "CRD-9010003-WW-1_ublhgv.jpg",
+          "model": "CRD-9010003-WW-1"
+        },
+        {
+          "filename": "CRD-9010004-WW-1_vrzezg.jpg",
+          "model": "CRD-9010004-WW-1"
+        },
+        {
+          "filename": "CRD-9010005-MC-1_ye2y1k.jpg",
+          "model": "CRD-9010005-MC-1"
+        },
+        {
+          "filename": "CRD-9010005-WW-1_uy1zz7.jpg",
+          "model": "CRD-9010005-WW-1"
+        },
+        {
+          "filename": "CRD-9010006-MC-1_ftvzgb.jpg",
+          "model": "CRD-9010006-MC-1"
+        },
+        {
+          "filename": "CRD-9010006-WW-1_tzknla.jpg",
+          "model": "CRD-9010006-WW-1"
+        },
+        {
+          "filename": "CRD-9010007-MC-1_xdafxk.jpg",
+          "model": "CRD-9010007-MC-1"
+        },
+        {
+          "filename": "CRD-9010007-WW-1_ygpvrf.jpg",
+          "model": "CRD-9010007-WW-1"
+        },
+        {
+          "filename": "CRD-9010008-MC-1_ttfcec.jpg",
+          "model": "CRD-9010008-MC-1"
+        },
+        {
+          "filename": "CRD-9010008-WW-1_dirgt8.jpg",
+          "model": "CRD-9010008-WW-1"
+        },
+        {
+          "filename": "CRD-9010009-WW-1_pxjutf.jpg",
+          "model": "CRD-9010009-WW-1"
+        },
+        {
+          "filename": "CRD-9010010-WW-1_mnrvbn.jpg",
+          "model": "CRD-9010010-WW-1"
+        },
+        {
+          "filename": "CRD-9010011-WW-1_ey80pm.jpg",
+          "model": "CRD-9010011-WW-1"
+        },
+        {
+          "filename": "CRD-9020001-EU-1_cu6cht.jpg",
+          "model": "CRD-9020001-EU-1"
+        },
+        {
+          "filename": "CRD-9020001-NA-1_im41kd.jpg",
+          "model": "CRD-9020001-NA-1"
+        },
+        {
+          "filename": "CRD-9020001-UK-1_vsvlrt.jpg",
+          "model": "CRD-9020001-UK-1"
+        },
+        {
+          "filename": "CRD-9020001-WW-1_oyhxpg.jpg",
+          "model": "CRD-9020001-WW-1"
+        },
+        {
+          "filename": "CRD-9020002-WW-1_gpasxv.jpg",
+          "model": "CRD-9020002-WW-1"
+        },
+        {
+          "filename": "CRD-9020003-WW-1_oq60eo.jpg",
+          "model": "CRD-9020003-WW-1"
+        },
+        {
+          "filename": "CRD-9020004-WW-1_oql4do.jpg",
+          "model": "CRD-9020004-WW-1"
+        },
+        {
+          "filename": "CRD-9020005-EU-1_gabzqh.jpg",
+          "model": "CRD-9020005-EU-1"
+        },
+        {
+          "filename": "CRD-9020005-NA-1_ifotza.jpg",
+          "model": "CRD-9020005-NA-1"
+        },
+        {
+          "filename": "CRD-9020005-UK-1_p2bqtd.jpg",
+          "model": "CRD-9020005-UK-1"
+        },
+        {
+          "filename": "CRD-9020005-WW-1_y5vdrv.jpg",
+          "model": "CRD-9020005-WW-1"
+        },
+        {
+          "filename": "CRD-9020006-AU-1_ednopq.jpg",
+          "model": "CRD-9020006-AU-1"
+        },
+        {
+          "filename": "CRD-9020006-EU-1_iitd1e.jpg",
+          "model": "CRD-9020006-EU-1"
+        },
+        {
+          "filename": "CRD-9020006-JP-1_rvwlz9.jpg",
+          "model": "CRD-9020006-JP-1"
+        },
+        {
+          "filename": "CRD-9020006-US-1_k16cn0.jpg",
+          "model": "CRD-9020006-US-1"
+        },
+        {
+          "filename": "CRD-9020007-AU-1_zusciu.jpg",
+          "model": "CRD-9020007-AU-1"
+        },
+        {
+          "filename": "CRD-9020007-EU-1_n3o6tp.jpg",
+          "model": "CRD-9020007-EU-1"
+        },
+        {
+          "filename": "CRD-9020007-JP-1_ahx04i.jpg",
+          "model": "CRD-9020007-JP-1"
+        },
+        {
+          "filename": "CRD-9020007-US-1_kunvoo.jpg",
+          "model": "CRD-9020007-US-1"
+        },
+        {
+          "filename": "CRD-9020008-WW-1_zgbbfi.jpg",
+          "model": "CRD-9020008-WW-1"
+        },
+        {
+          "filename": "CRD-9020009-WW-1_zgmcwg.jpg",
+          "model": "CRD-9020009-WW-1"
+        },
+        {
+          "filename": "CRD-9020010-WW-1_pcjgyc.jpg",
+          "model": "CRD-9020010-WW-1"
+        },
+        {
+          "filename": "CRD-9020011-WW-1_fy8qvu.jpg",
+          "model": "CRD-9020011-WW-1"
+        },
+        {
+          "filename": "CRD-9020012-WW-1_rjjr83.jpg",
+          "model": "CRD-9020012-WW-1"
+        },
+        {
+          "filename": "CRD-9020013-WW-1_dyd4om.jpg",
+          "model": "CRD-9020013-WW-1"
+        },
+        {
+          "filename": "CRD-9020014-WW-1_tbmcey.jpg",
+          "model": "CRD-9020014-WW-1"
+        },
+        {
+          "filename": "CRD-9020015-WW-1_zpreyz.jpg",
+          "model": "CRD-9020015-WW-1"
+        },
+        {
+          "filename": "CRD-9020016-WW-1_vyt9iy.jpg",
+          "model": "CRD-9020016-WW-1"
+        },
+        {
+          "filename": "CRD-9020016-WW-RV-1_uzlfgz.jpg",
+          "model": "CRD-9020016-WW-RV-1"
+        },
+        {
+          "filename": "CRD-9020017-WW-1_vmtlhb.jpg",
+          "model": "CRD-9020017-WW-1"
+        },
+        {
+          "filename": "CRD-9020018-WW-1_ueiihz.jpg",
+          "model": "CRD-9020018-WW-1"
+        },
+        {
+          "filename": "CRD-9020018-WW-RV-1_synidu.jpg",
+          "model": "CRD-9020018-WW-RV-1"
+        },
+        {
+          "filename": "CRD-9020019-WW-1_b889sa.jpg",
+          "model": "CRD-9020019-WW-1"
+        },
+        {
+          "filename": "CRD-9020020-WW-1_fkudi7.jpg",
+          "model": "CRD-9020020-WW-1"
+        },
+        {
+          "filename": "CRD-9020021-WW-1_wrujqx.jpg",
+          "model": "CRD-9020021-WW-1"
+        },
+        {
+          "filename": "CRD-9020022-AU-1_cummzb.jpg",
+          "model": "CRD-9020022-AU-1"
+        },
+        {
+          "filename": "CRD-9020022-EU-1_rcftm9.jpg",
+          "model": "CRD-9020022-EU-1"
+        },
+        {
+          "filename": "CRD-9020022-JP-1_fc6uxm.jpg",
+          "model": "CRD-9020022-JP-1"
+        },
+        {
+          "filename": "CRD-9020022-US-1_wtygxv.jpg",
+          "model": "CRD-9020022-US-1"
+        },
+        {
+          "filename": "CRD-9020023-AU-1_kz3bfb.jpg",
+          "model": "CRD-9020023-AU-1"
+        },
+        {
+          "filename": "CRD-9020023-EU-1_girvn6.jpg",
+          "model": "CRD-9020023-EU-1"
+        },
+        {
+          "filename": "CRD-9020023-JP-1_tjgwfv.jpg",
+          "model": "CRD-9020023-JP-1"
+        },
+        {
+          "filename": "CRD-9020023-US-1_luydn8.jpg",
+          "model": "CRD-9020023-US-1"
+        },
+        {
+          "filename": "CRD-9020024-WW-1_c42tzz.jpg",
+          "model": "CRD-9020024-WW-1"
+        },
+        {
+          "filename": "CRD-9020025-AU-1_fhb13o.jpg",
+          "model": "CRD-9020025-AU-1"
+        },
+        {
+          "filename": "CRD-9020025-EU-1_mper7l.jpg",
+          "model": "CRD-9020025-EU-1"
+        },
+        {
+          "filename": "CRD-9020025-JP-1_ow5xb0.jpg",
+          "model": "CRD-9020025-JP-1"
+        },
+        {
+          "filename": "CRD-9020025-US-1_ejvhcj.jpg",
+          "model": "CRD-9020025-US-1"
+        },
+        {
+          "filename": "CRD-9020026-WW-1_nutyvd.jpg",
+          "model": "CRD-9020026-WW-1"
+        },
+        {
+          "filename": "CRD-9020027-WW-1_dl2wtq.jpg",
+          "model": "CRD-9020027-WW-1"
+        },
+        {
+          "filename": "CRD-9020028-WW-1_vosuhj.jpg",
+          "model": "CRD-9020028-WW-1"
+        },
+        {
+          "filename": "CRD-9020029-AU-1_fqusyk.jpg",
+          "model": "CRD-9020029-AU-1"
+        },
+        {
+          "filename": "CRD-9020029-EU-1_k5qeij.jpg",
+          "model": "CRD-9020029-EU-1"
+        },
+        {
+          "filename": "CRD-9020029-JP-1_mpaprx.jpg",
+          "model": "CRD-9020029-JP-1"
+        },
+        {
+          "filename": "CRD-9020029-US-1_vom5ij.jpg",
+          "model": "CRD-9020029-US-1"
+        },
+        {
+          "filename": "CRD-9020030-WW-1_jvrbkb.jpg",
+          "model": "CRD-9020030-WW-1"
+        },
+        {
+          "filename": "CRD-9020031-AU-1_xcatto.jpg",
+          "model": "CRD-9020031-AU-1"
+        },
+        {
+          "filename": "CRD-9020031-EU-1_geriee.jpg",
+          "model": "CRD-9020031-EU-1"
+        },
+        {
+          "filename": "CRD-9020031-US-1_oyckly.jpg",
+          "model": "CRD-9020031-US-1"
+        },
+        {
+          "filename": "CRD-9030001-WW-1_ph4xxf.jpg",
+          "model": "CRD-9030001-WW-1"
+        },
+        {
+          "filename": "CRD-9030002-WW-1_wh0i35.jpg",
+          "model": "CRD-9030002-WW-1"
+        },
+        {
+          "filename": "CRD-9030003-WW-1_exvtkg.jpg",
+          "model": "CRD-9030003-WW-1"
+        },
+        {
+          "filename": "CRD-9030004-WW-1_chkabp.jpg",
+          "model": "CRD-9030004-WW-1"
+        },
+        {
+          "filename": "CRD-9030005-WW-1_mwe9ip.jpg",
+          "model": "CRD-9030005-WW-1"
+        },
+        {
+          "filename": "CRD-9030006-WW-1_t1uxnu.jpg",
+          "model": "CRD-9030006-WW-1"
+        },
+        {
+          "filename": "CRD-9040001-WW-1_df9ejh.jpg",
+          "model": "CRD-9040001-WW-1"
+        },
+        {
+          "filename": "CRD-9040002-WW-1_fycyqq.jpg",
+          "model": "CRD-9040002-WW-1"
+        },
+        {
+          "filename": "CRD-9040003-WW-1_paqa7l.jpg",
+          "model": "CRD-9040003-WW-1"
+        },
+        {
+          "filename": "CRD-9050001-WW-1_b1mhcx.jpg",
+          "model": "CRD-9050001-WW-1"
+        },
+        {
+          "filename": "CRD-9050002-WW-1_gce2jp.jpg",
+          "model": "CRD-9050002-WW-1"
+        },
+        {
+          "filename": "CRD-9060001-WW-1_rlrt3r.jpg",
+          "model": "CRD-9060001-WW-1"
+        },
+        {
+          "filename": "CRD-9060002-WW-1_k50vfi.jpg",
+          "model": "CRD-9060002-WW-1"
+        },
+        {
+          "filename": "CRD-9060003-WW-1_fuz1vj.jpg",
+          "model": "CRD-9060003-WW-1"
+        },
+        {
+          "filename": "CRD-9060004-WW-1_vgvrjt.jpg",
+          "model": "CRD-9060004-WW-1"
+        },
+        {
+          "filename": "CRD-9060005-WW-1_yxgbf2.jpg",
+          "model": "CRD-9060005-WW-1"
+        },
+        {
+          "filename": "CRD-9060006-WW-1_uk5vnv.jpg",
+          "model": "CRD-9060006-WW-1"
+        },
+        {
+          "filename": "CRD-9100000-WW-1_qh0dwa.jpg",
+          "model": "CRD-9100000-WW-1"
+        },
+        {
+          "filename": "CRD-9900001-WW-1_es8ike.jpg",
+          "model": "CRD-9900001-WW-1"
+        },
+        {
+          "filename": "CRD-9900002-WW-1_dpz09e.jpg",
+          "model": "CRD-9900002-WW-1"
+        },
+        {
+          "filename": "CRD-9900003-WW-1_pk5r2x.jpg",
+          "model": "CRD-9900003-WW-1"
+        },
+        {
+          "filename": "CRD-9900004-WW-1_dloxd4.jpg",
+          "model": "CRD-9900004-WW-1"
+        },
+        {
+          "filename": "CRD-9900005-WW-1_x91cwc.jpg",
+          "model": "CRD-9900005-WW-1"
+        },
+        {
+          "filename": "CRD-9900006-WW-1_tcaotf.jpg",
+          "model": "CRD-9900006-WW-1"
+        },
+        {
+          "filename": "CRD-9900007-WW-1_geuh3z.jpg",
+          "model": "CRD-9900007-WW-1"
+        },
+        {
+          "filename": "CRD-9900008-WW-1_hzprtz.jpg",
+          "model": "CRD-9900008-WW-1"
+        },
+        {
+          "filename": "CRD-9900009-WW-1_ljg1v7.jpg",
+          "model": "CRD-9900009-WW-1"
+        },
+        {
+          "filename": "CRD-9900010-WW-1_jezxed.jpg",
+          "model": "CRD-9900010-WW-1"
+        },
+        {
+          "filename": "CRD-9900011-WW-1_lvivzs.jpg",
+          "model": "CRD-9900011-WW-1"
+        },
+        {
+          "filename": "CRD-9900012-WW-1_kv0crh.jpg",
+          "model": "CRD-9900012-WW-1"
+        },
+        {
+          "filename": "CRD-9900013-WW-1_ovfq4j.jpg",
+          "model": "CRD-9900013-WW-1"
+        },
+        {
+          "filename": "CRD-9900014-WW-1_emcnx9.jpg",
+          "model": "CRD-9900014-WW-1"
+        },
+        {
+          "filename": "CRD-9900015-WW-1_vikksp.jpg",
+          "model": "CRD-9900015-WW-1"
+        },
+        {
+          "filename": "CRD-9900016-WW-1_wtvaui.jpg",
+          "model": "CRD-9900016-WW-1"
+        },
+        {
+          "filename": "CRD-9900017-WW-1_hq7loh.jpg",
+          "model": "CRD-9900017-WW-1"
+        },
+        {
+          "filename": "CRD-9900018-WW-1_uxagkq.jpg",
+          "model": "CRD-9900018-WW-1"
+        },
+        {
+          "filename": "CRD-9900019-WW-1_aqd4ba.jpg",
+          "model": "CRD-9900019-WW-1"
+        },
+        {
+          "filename": "CRD-9900020-WW-1_qlbr48.jpg",
+          "model": "CRD-9900020-WW-1"
+        },
+        {
+          "filename": "CRD-9900021-WW-1_isec8j.jpg",
+          "model": "CRD-9900021-WW-1"
+        },
+        {
+          "filename": "CRD-9900022-WW-1_w1yb9w.jpg",
+          "model": "CRD-9900022-WW-1"
+        },
+        {
+          "filename": "CRD-9900023-WW-1_eu6q2h.jpg",
+          "model": "CRD-9900023-WW-1"
+        },
+        {
+          "filename": "CRD-9900024-WW-1_wangcr.jpg",
+          "model": "CRD-9900024-WW-1"
+        },
+        {
+          "filename": "CRD-9900025-WW-1_phvbuy.jpg",
+          "model": "CRD-9900025-WW-1"
+        },
+        {
+          "filename": "CRD-9900026-WW-1_a0swuo.jpg",
+          "model": "CRD-9900026-WW-1"
+        },
+        {
+          "filename": "CRD-9900027-WW-1_kprymq.jpg",
+          "model": "CRD-9900027-WW-1"
+        },
+        {
+          "filename": "CRD-9900028-WW-1_fmjdkh.jpg",
+          "model": "CRD-9900028-WW-1"
+        },
+        {
+          "filename": "CRD-9900029-WW-1_wgydkt.jpg",
+          "model": "CRD-9900029-WW-1"
+        },
+        {
+          "filename": "CRD-9900030-WW-1_tduw1x.jpg",
+          "model": "CRD-9900030-WW-1"
+        },
+        {
+          "filename": "CRD-9900031-WW-1_zgkfey.jpg",
+          "model": "CRD-9900031-WW-1"
+        },
+        {
+          "filename": "CS_B_F1_BLK-1_zja2nx.jpg",
+          "model": "CS_B_F1_BLK-1"
+        },
+        {
+          "filename": "CS_B_F1_W-1_bajrlk.jpg",
+          "model": "CS_B_F1_W-1"
+        },
+        {
+          "filename": "CS_B_FORM_BLK_F1-1_zxx5gp.jpg",
+          "model": "CS_B_FORM_BLK_F1-1"
+        },
+        {
+          "filename": "CS_B_FORM_BLK_FA-1_qjmrtk.jpg",
+          "model": "CS_B_FORM_BLK_FA-1"
+        },
+        {
+          "filename": "CS_B_FORM_BLK-1_tdfvrg.jpg",
+          "model": "CS_B_FORM_BLK-1"
+        },
+        {
+          "filename": "CS_B_FORM_W_F1-1_rwmqpz.jpg",
+          "model": "CS_B_FORM_W_F1-1"
+        },
+        {
+          "filename": "CS_B_FORM_W_FA-1_qdracn.jpg",
+          "model": "CS_B_FORM_W_FA-1"
+        },
+        {
+          "filename": "CS_B_FORM_W-1_ivxxc3.jpg",
+          "model": "CS_B_FORM_W-1"
+        },
+        {
+          "filename": "CS_BCP-1_brzmvg.jpg",
+          "model": "CS_BCP-1"
+        },
+        {
+          "filename": "CS_C_EXT_C-1_pr4sp6.jpg",
+          "model": "CS_C_EXT_C-1"
+        },
+        {
+          "filename": "CS_C_EXT_F-1_eh5q0o.jpg",
+          "model": "CS_C_EXT_F-1"
+        },
+        {
+          "filename": "CS_C_EXT_M-1_ga8wr6.jpg",
+          "model": "CS_C_EXT_M-1"
+        },
+        {
+          "filename": "CS_C_FORM_F-1_fwfezk.jpg",
+          "model": "CS_C_FORM_F-1"
+        },
+        {
+          "filename": "CS_C_FORM_R-1_minj2y.jpg",
+          "model": "CS_C_FORM_R-1"
+        },
+        {
+          "filename": "CS_DD__AU-1_kyflce.jpg",
+          "model": "CS_DD__AU-1"
+        },
+        {
+          "filename": "CS_DD__EU-1_m9gh9s.jpg",
+          "model": "CS_DD__EU-1"
+        },
+        {
+          "filename": "CS_DD__JP-1_rydobi.jpg",
+          "model": "CS_DD__JP-1"
+        },
+        {
+          "filename": "CS_DD__US-1_d0ddco.jpg",
+          "model": "CS_DD__US-1"
+        },
+        {
+          "filename": "CS_DD_AU-1_ujleh0.jpg",
+          "model": "CS_DD_AU-1"
+        },
+        {
+          "filename": "CS_DD_EU-1_mgqvvp.jpg",
+          "model": "CS_DD_EU-1"
+        },
+        {
+          "filename": "CS_DD_JP-1_dsyqxd.jpg",
+          "model": "CS_DD_JP-1"
+        },
+        {
+          "filename": "CS_DD_TC-1_nrgz0b.jpg",
+          "model": "CS_DD_TC-1"
+        },
+        {
+          "filename": "CS_DD_US-1_uepk9w.jpg",
+          "model": "CS_DD_US-1"
+        },
+        {
+          "filename": "CS_GT_C_BLK-1_z6tgya.jpg",
+          "model": "CS_GT_C_BLK-1"
+        },
+        {
+          "filename": "CS_GT_C_W-1_gcs0ld.jpg",
+          "model": "CS_GT_C_W-1"
+        },
+        {
+          "filename": "CS_HB_V1.5-1_kqamld.jpg",
+          "model": "CS_HB_V1.5-1"
+        },
+        {
+          "filename": "CS_HB_V2-1_g1u54f.jpg",
+          "model": "CS_HB_V2-1"
+        },
+        {
+          "filename": "CS_HB2CSSTC-1_kpd7vd.jpg",
+          "model": "CS_HB2CSSTC-1"
+        },
+        {
+          "filename": "CS_MPM-1_gxzkgt.jpg",
+          "model": "CS_MPM-1"
+        },
+        {
+          "filename": "CS_RW_F1_AU-1_fpttnf.jpg",
+          "model": "CS_RW_F1_AU-1"
+        },
+        {
+          "filename": "CS_RW_F1_EU-1_iull5s.jpg",
+          "model": "CS_RW_F1_EU-1"
+        },
+        {
+          "filename": "CS_RW_F1_JP-1_x86h1q.jpg",
+          "model": "CS_RW_F1_JP-1"
+        },
+        {
+          "filename": "CS_RW_F1_US-1_dutwwp.jpg",
+          "model": "CS_RW_F1_US-1"
+        },
+        {
+          "filename": "CS_S_FORM-1_b15mor.jpg",
+          "model": "CS_S_FORM-1"
+        },
+        {
+          "filename": "CS_SSP-1_hirnke.jpg",
+          "model": "CS_SSP-1"
+        },
+        {
+          "filename": "CS_SW_BMW_V2-1_evnzui.jpg",
+          "model": "CS_SW_BMW_V2-1"
+        },
+        {
+          "filename": "CS_SW_F1_ESPORT_V2-1_rpqsxl.jpg",
+          "model": "CS_SW_F1_ESPORT_V2-1"
+        },
+        {
+          "filename": "CS_SW_RS-1_o6aual.jpg",
+          "model": "CS_SW_RS-1"
+        },
+        {
+          "filename": "CS_SWFORM_F1-1_jv26ap.jpg",
+          "model": "CS_SWFORM_F1-1"
+        },
+        {
+          "filename": "CS_SWFORM_V2_18-1_mo1n7y.jpg",
+          "model": "CS_SWFORM_V2_18-1"
+        },
+        {
+          "filename": "CS_SWFORM_V2_19-1_nffgvt.jpg",
+          "model": "CS_SWFORM_V2_19-1"
+        },
+        {
+          "filename": "CS_SWFORM_V2_20-1_lh22ih.jpg",
+          "model": "CS_SWFORM_V2_20-1"
+        },
+        {
+          "filename": "CS_SWFORM_V2_PS4-1_wayskw.jpg",
+          "model": "CS_SWFORM_V2_PS4-1"
+        },
+        {
+          "filename": "CS_SWFORM_V2.5_23-1_yeev5v.jpg",
+          "model": "CS_SWFORM_V2.5_23-1"
+        },
+        {
+          "filename": "CS_SWFORM_V2.5_24-1_k1ccif.jpg",
+          "model": "CS_SWFORM_V2.5_24-1"
+        },
+        {
+          "filename": "CS_SWFORM_V2.5_M-1_eyj7im.jpg",
+          "model": "CS_SWFORM_V2.5_M-1"
+        },
+        {
+          "filename": "CS_SWFORM_V2.5-1_kwvbla.jpg",
+          "model": "CS_SWFORM_V2.5-1"
+        },
+        {
+          "filename": "CS_SWFORM_V2.5X_M-1_b8ytip.jpg",
+          "model": "CS_SWFORM_V2.5X_M-1"
+        },
+        {
+          "filename": "CS_SWFORM_V2.5X-1_u2vjjj.jpg",
+          "model": "CS_SWFORM_V2.5X-1"
+        },
+        {
+          "filename": "CS_SWFORM_V2X-1_srkzof.jpg",
+          "model": "CS_SWFORM_V2X-1"
+        },
+        {
+          "filename": "CS_UH_V2-1_oie8s8.jpg",
+          "model": "CS_UH_V2-1"
+        },
+        {
+          "filename": "CS_UHX_V2-1_swxzax.jpg",
+          "model": "CS_UHX_V2-1"
+        },
+        {
+          "filename": "CS_USB-1_tzlj2f.jpg",
+          "model": "CS_USB-1"
+        },
+        {
+          "filename": "CS_WB_V2.5_AU-1_iwbvca.jpg",
+          "model": "CS_WB_V2.5_AU-1"
+        },
+        {
+          "filename": "CS_WB_V2.5_EU-1_spexkj.jpg",
+          "model": "CS_WB_V2.5_EU-1"
+        },
+        {
+          "filename": "CS_WB_V2.5_JP-1_peftut.jpg",
+          "model": "CS_WB_V2.5_JP-1"
+        },
+        {
+          "filename": "CS_WB_V2.5_US-1_jo6zj7.jpg",
+          "model": "CS_WB_V2.5_US-1"
+        },
+        {
+          "filename": "CS_WR_320_A-1_ndo1ej.jpg",
+          "model": "CS_WR_320_A-1"
+        },
+        {
+          "filename": "CS_WR_320_A-RV-1_htxmmq.jpg",
+          "model": "CS_WR_320_A-RV-1"
+        },
+        {
+          "filename": "CS_WR_320-1_dmapzn.jpg",
+          "model": "CS_WR_320-1"
+        },
+        {
+          "filename": "CS_WR_320-RV-1_iunah0.jpg",
+          "model": "CS_WR_320-RV-1"
+        },
+        {
+          "filename": "CS_WR_GT3E-1_gs3cw3.jpg",
+          "model": "CS_WR_GT3E-1"
+        },
+        {
+          "filename": "CS_WR_S_F-1_kxkouk.jpg",
+          "model": "CS_WR_S_F-1"
+        },
+        {
+          "filename": "CS_WR_S_GT-1_ri4t0b.jpg",
+          "model": "CS_WR_S_GT-1"
+        },
+        {
+          "filename": "CS_WR_S_K-1_vac1aj.jpg",
+          "model": "CS_WR_S_K-1"
+        },
+        {
+          "filename": "CS_WR_S_R-1_nk9prb.jpg",
+          "model": "CS_WR_S_R-1"
+        },
+        {
+          "filename": "CS_WR_S_R-RV-1_okgdww.jpg",
+          "model": "CS_WR_S_R-RV-1"
+        },
+        {
+          "filename": "CSL_C_KH-1_kvmsxd.jpg",
+          "model": "CSL_C_KH-1"
+        },
+        {
+          "filename": "CSL_C_MH-1_p7o4hn.jpg",
+          "model": "CSL_C_MH-1"
+        },
+        {
+          "filename": "CSL_C_MS-1_k84qcq.jpg",
+          "model": "CSL_C_MS-1"
+        },
+        {
+          "filename": "CSL_C_SEAT-1_hxesf8.jpg",
+          "model": "CSL_C_SEAT-1"
+        },
+        {
+          "filename": "CSL_C_SH-1_uiuvgc.jpg",
+          "model": "CSL_C_SH-1"
+        },
+        {
+          "filename": "CSL_C_SHELF-1_ue7koc.jpg",
+          "model": "CSL_C_SHELF-1"
+        },
+        {
+          "filename": "CSL_C_SSL-1_ox3ywm.jpg",
+          "model": "CSL_C_SSL-1"
+        },
+        {
+          "filename": "CSL_C-1_xerd5i.jpg",
+          "model": "CSL_C-1"
+        },
+        {
+          "filename": "CSL_DD_AU-1_afgzap.jpg",
+          "model": "CSL_DD_AU-1"
+        },
+        {
+          "filename": "CSL_DD_BK180_AU-1_xpiz1o.jpg",
+          "model": "CSL_DD_BK180_AU-1"
+        },
+        {
+          "filename": "CSL_DD_BK180_D_AU-1_ljbjtf.jpg",
+          "model": "CSL_DD_BK180_D_AU-1"
+        },
+        {
+          "filename": "CSL_DD_BK180_D_EU-1_t99vgy.jpg",
+          "model": "CSL_DD_BK180_D_EU-1"
+        },
+        {
+          "filename": "CSL_DD_BK180_D_JP-1_enug6e.jpg",
+          "model": "CSL_DD_BK180_D_JP-1"
+        },
+        {
+          "filename": "CSL_DD_BK180_D_US-1_fumc87.jpg",
+          "model": "CSL_DD_BK180_D_US-1"
+        },
+        {
+          "filename": "CSL_DD_BK180_EU-1_bjaitw.jpg",
+          "model": "CSL_DD_BK180_EU-1"
+        },
+        {
+          "filename": "CSL_DD_BK180_JP-1_ogloo6.jpg",
+          "model": "CSL_DD_BK180_JP-1"
+        },
+        {
+          "filename": "CSL_DD_BK180_US-1_glalwi.jpg",
+          "model": "CSL_DD_BK180_US-1"
+        },
+        {
+          "filename": "CSL_DD_EU-1_vqvwxb.jpg",
+          "model": "CSL_DD_EU-1"
+        },
+        {
+          "filename": "CSL_DD_JP-1_ryhaot.jpg",
+          "model": "CSL_DD_JP-1"
+        },
+        {
+          "filename": "CSL_DD_PSU90_AU-1_mtbecc.jpg",
+          "model": "CSL_DD_PSU90_AU-1"
+        },
+        {
+          "filename": "CSL_DD_PSU90_D_AU-1_ib2u7f.jpg",
+          "model": "CSL_DD_PSU90_D_AU-1"
+        },
+        {
+          "filename": "CSL_DD_PSU90_D_EU-1_j9gzps.jpg",
+          "model": "CSL_DD_PSU90_D_EU-1"
+        },
+        {
+          "filename": "CSL_DD_PSU90_D_JP-1_oaf9az.jpg",
+          "model": "CSL_DD_PSU90_D_JP-1"
+        },
+        {
+          "filename": "CSL_DD_PSU90_EU-1_hjhaui.jpg",
+          "model": "CSL_DD_PSU90_EU-1"
+        },
+        {
+          "filename": "CSL_DD_PSU90_JP-1_ijbsco.jpg",
+          "model": "CSL_DD_PSU90_JP-1"
+        },
+        {
+          "filename": "CSL_DD_PSU90_US-1_dwvewh.jpg",
+          "model": "CSL_DD_PSU90_US-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_180_AU-1_u7eyn0.jpg",
+          "model": "CSL_DD_QR2L_180_AU-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_180_EU-1_k9aagp.jpg",
+          "model": "CSL_DD_QR2L_180_EU-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_180_EU-RV-1_dsmvdg.jpg",
+          "model": "CSL_DD_QR2L_180_EU-RV-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_180_JP-1_n1qgzn.jpg",
+          "model": "CSL_DD_QR2L_180_JP-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_180_US-1_vmhtxg.jpg",
+          "model": "CSL_DD_QR2L_180_US-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_180_US-RV-1_m6so3m.jpg",
+          "model": "CSL_DD_QR2L_180_US-RV-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_90_AU-1_qezhfc.jpg",
+          "model": "CSL_DD_QR2L_90_AU-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_90_EU-1_dw6zld.jpg",
+          "model": "CSL_DD_QR2L_90_EU-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_90_EU-RV-1_f4iw5r.jpg",
+          "model": "CSL_DD_QR2L_90_EU-RV-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_90_JP-1_qjn7kx.jpg",
+          "model": "CSL_DD_QR2L_90_JP-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_90_US-1_y0xpjw.jpg",
+          "model": "CSL_DD_QR2L_90_US-1"
+        },
+        {
+          "filename": "CSL_DD_QR2L_90_US-RV-1_cqhqdt.jpg",
+          "model": "CSL_DD_QR2L_90_US-RV-1"
+        },
+        {
+          "filename": "CSL_DD_TC-1_w2au99.jpg",
+          "model": "CSL_DD_TC-1"
+        },
+        {
+          "filename": "CSL_DD_US-1_cwjcir.jpg",
+          "model": "CSL_DD_US-1"
+        },
+        {
+          "filename": "CSL_E_F1_SET_AU-1_wymmi7.jpg",
+          "model": "CSL_E_F1_SET_AU-1"
+        },
+        {
+          "filename": "CSL_E_F1_SET_EU-1_mz7sql.jpg",
+          "model": "CSL_E_F1_SET_EU-1"
+        },
+        {
+          "filename": "CSL_E_RMCL-1_jksoku.jpg",
+          "model": "CSL_E_RMCL-1"
+        },
+        {
+          "filename": "CSL_E_RP1_PS4-1_rv6yht.jpg",
+          "model": "CSL_E_RP1_PS4-1"
+        },
+        {
+          "filename": "CSL_E_RP1X-1_ya3qz8.jpg",
+          "model": "CSL_E_RP1X-1"
+        },
+        {
+          "filename": "CSL_E_RW_PS4_AU-1_shxsjk.jpg",
+          "model": "CSL_E_RW_PS4_AU-1"
+        },
+        {
+          "filename": "CSL_E_RW_PS4_US-1_lz1yw0.jpg",
+          "model": "CSL_E_RW_PS4_US-1"
+        },
+        {
+          "filename": "CSL_E_SW_MCL_BF-1_r5y3zg.jpg",
+          "model": "CSL_E_SW_MCL_BF-1"
+        },
+        {
+          "filename": "CSL_E_SW_MCL_PURE-1_evhjgl.jpg",
+          "model": "CSL_E_SW_MCL_PURE-1"
+        },
+        {
+          "filename": "CSL_E_SW_PVGT-1_prkmq1.jpg",
+          "model": "CSL_E_SW_PVGT-1"
+        },
+        {
+          "filename": "CSL_E_SW_PVGT-RV-1_vzlv8b.jpg",
+          "model": "CSL_E_SW_PVGT-RV-1"
+        },
+        {
+          "filename": "CSL_E_SW_WRC_BF-1_gtooro.jpg",
+          "model": "CSL_E_SW_WRC_BF-1"
+        },
+        {
+          "filename": "CSL_E_SW_WRC_PURE-1_ljbkca.jpg",
+          "model": "CSL_E_SW_WRC_PURE-1"
+        },
+        {
+          "filename": "CSL_E_SW_WRC-1_pj2pyt.jpg",
+          "model": "CSL_E_SW_WRC-1"
+        },
+        {
+          "filename": "CSL_E_SWMCL_V2-1_qkda9g.jpg",
+          "model": "CSL_E_SWMCL_V2-1"
+        },
+        {
+          "filename": "CSL_E_WB__EU-1_bpfe8x.jpg",
+          "model": "CSL_E_WB__EU-1"
+        },
+        {
+          "filename": "CSL_E_WB__US-1_qsvqz4.jpg",
+          "model": "CSL_E_WB__US-1"
+        },
+        {
+          "filename": "CSL_E_WB_EU-1_e86bls.jpg",
+          "model": "CSL_E_WB_EU-1"
+        },
+        {
+          "filename": "CSL_E_WB_V1.1_EU-1_fvuj2y.jpg",
+          "model": "CSL_E_WB_V1.1_EU-1"
+        },
+        {
+          "filename": "CSL_E_WB_V1.1_JP-1_rbqhsw.jpg",
+          "model": "CSL_E_WB_V1.1_JP-1"
+        },
+        {
+          "filename": "CSL_E_WB_V1.1_US-1_ziuyt7.jpg",
+          "model": "CSL_E_WB_V1.1_US-1"
+        },
+        {
+          "filename": "CSL_E_WB-1_wnjglg.jpg",
+          "model": "CSL_E_WB-1"
+        },
+        {
+          "filename": "CSL_EP_LCK-1_wphdor.jpg",
+          "model": "CSL_EP_LCK-1"
+        },
+        {
+          "filename": "CSL_EP_V2-1_fsetsq.jpg",
+          "model": "CSL_EP_V2-1"
+        },
+        {
+          "filename": "CSL_EP-1_dmjhei.jpg",
+          "model": "CSL_EP-1"
+        },
+        {
+          "filename": "CSL_KH_PRE-SERIES-1_q2upfi.jpg",
+          "model": "CSL_KH_PRE-SERIES-1"
+        },
+        {
+          "filename": "CSL_KH-DVT_UNITS-1_valwo8.jpg",
+          "model": "CSL_KH-DVT_UNITS-1"
+        },
+        {
+          "filename": "CSL_MS_PRE-SERIES-1_cy8sou.jpg",
+          "model": "CSL_MS_PRE-SERIES-1"
+        },
+        {
+          "filename": "CSL_MS-DVT_UNITS-1_lsbmep.jpg",
+          "model": "CSL_MS-DVT_UNITS-1"
+        },
+        {
+          "filename": "CSL_P_CK-1_ydxkyz.jpg",
+          "model": "CSL_P_CK-1"
+        },
+        {
+          "filename": "CSL_P_LCK-1_di4m4x.jpg",
+          "model": "CSL_P_LCK-1"
+        },
+        {
+          "filename": "CSL_P_TK-1_q0rfvw.jpg",
+          "model": "CSL_P_TK-1"
+        },
+        {
+          "filename": "CSL_P-1_ztu5pa.jpg",
+          "model": "CSL_P-1"
+        },
+        {
+          "filename": "CSL_PCH_PRE-SERIES-1_v5lmrs.jpg",
+          "model": "CSL_PCH_PRE-SERIES-1"
+        },
+        {
+          "filename": "CSL_RP1X-1_b6xnk1.jpg",
+          "model": "CSL_RP1X-1"
+        },
+        {
+          "filename": "CSL_S-1_e1cijr.jpg",
+          "model": "CSL_S-1"
+        },
+        {
+          "filename": "CSL_SW_BMW_QR2L-1_pagprn.jpg",
+          "model": "CSL_SW_BMW_QR2L-1"
+        },
+        {
+          "filename": "CSL_SW_BMW-1_enldv1.jpg",
+          "model": "CSL_SW_BMW-1"
+        },
+        {
+          "filename": "CSL_SW_P1_V2R_QR2L-1_fldol3.jpg",
+          "model": "CSL_SW_P1_V2R_QR2L-1"
+        },
+        {
+          "filename": "CSL_SW_P1_V2R_QR2L-RV-1_zt0nzl.jpg",
+          "model": "CSL_SW_P1_V2R_QR2L-RV-1"
+        },
+        {
+          "filename": "CSL_SW_P1_V2R-1_qhto85.jpg",
+          "model": "CSL_SW_P1_V2R-1"
+        },
+        {
+          "filename": "CSL_SW_UH-1_cicyrm.jpg",
+          "model": "CSL_SW_UH-1"
+        },
+        {
+          "filename": "CSL_UH_V2-1_kaxsy6.jpg",
+          "model": "CSL_UH_V2-1"
+        },
+        {
+          "filename": "CSL_WS-1_cm2dzt.jpg",
+          "model": "CSL_WS-1"
+        },
+        {
+          "filename": "CSP_COLOR_KIT_BLACK_US-1_qf2tox.jpg",
+          "model": "CSP_COLOR_KIT_BLACK_US-1"
+        },
+        {
+          "filename": "CSP_COLOR_KIT_GREY_US-1_qvxplu.jpg",
+          "model": "CSP_COLOR_KIT_GREY_US-1"
+        },
+        {
+          "filename": "CSP_COLOR_KIT_RED_US-1_if0dbw.jpg",
+          "model": "CSP_COLOR_KIT_RED_US-1"
+        },
+        {
+          "filename": "CSP_USB-1_gg9a4b.jpg",
+          "model": "CSP_USB-1"
+        },
+        {
+          "filename": "CSP_V2-1_m8jzpk.jpg",
+          "model": "CSP_V2-1"
+        },
+        {
+          "filename": "CSP_V3_BPK-1_o1fqbw.jpg",
+          "model": "CSP_V3_BPK-1"
+        },
+        {
+          "filename": "CSP_V3_DK-1_mzdjof.jpg",
+          "model": "CSP_V3_DK-1"
+        },
+        {
+          "filename": "CSP_V3-1_f6pxjc.jpg",
+          "model": "CSP_V3-1"
+        },
+        {
+          "filename": "CSP_V3I-1_a8334d.jpg",
+          "model": "CSP_V3I-1"
+        },
+        {
+          "filename": "CSPAC-1_kccy5k.jpg",
+          "model": "CSPAC-1"
+        },
+        {
+          "filename": "CSPCKIT_BE_EU-1_po9yn5.jpg",
+          "model": "CSPCKIT_BE_EU-1"
+        },
+        {
+          "filename": "CSPCKIT_BK_EU-1_g7zmzg.jpg",
+          "model": "CSPCKIT_BK_EU-1"
+        },
+        {
+          "filename": "CSPCKIT_GR_EU-1_bssjyl.jpg",
+          "model": "CSPCKIT_GR_EU-1"
+        },
+        {
+          "filename": "CSPCKIT_RE_EU-1_z4nf92.jpg",
+          "model": "CSPCKIT_RE_EU-1"
+        },
+        {
+          "filename": "CSPLC-1_sw4zj9.jpg",
+          "model": "CSPLC-1"
+        },
+        {
+          "filename": "CSR_ALCANP-1_uutdq8.jpg",
+          "model": "CSR_ALCANP-1"
+        },
+        {
+          "filename": "CSR_AU-1_alrad9.jpg",
+          "model": "CSR_AU-1"
+        },
+        {
+          "filename": "CSR_E_AC-1_ojhkg2.jpg",
+          "model": "CSR_E_AC-1"
+        },
+        {
+          "filename": "CSR_E_EU-1_sdfk2n.jpg",
+          "model": "CSR_E_EU-1"
+        },
+        {
+          "filename": "CSR_E_P-1_iyytge.jpg",
+          "model": "CSR_E_P-1"
+        },
+        {
+          "filename": "CSR_E_RFORM-1_vn0zpm.jpg",
+          "model": "CSR_E_RFORM-1"
+        },
+        {
+          "filename": "CSR_E_RIM-1_pswf92.jpg",
+          "model": "CSR_E_RIM-1"
+        },
+        {
+          "filename": "CSR_E_US-1_swakpq.jpg",
+          "model": "CSR_E_US-1"
+        },
+        {
+          "filename": "CSR_EU-1_kaf3sa.jpg",
+          "model": "CSR_EU-1"
+        },
+        {
+          "filename": "CSR_P_IKIT-1_bfogoy.jpg",
+          "model": "CSR_P_IKIT-1"
+        },
+        {
+          "filename": "CSR_P-1_wyc8dw.jpg",
+          "model": "CSR_P-1"
+        },
+        {
+          "filename": "CSR_RIM-1_o6co5m.jpg",
+          "model": "CSR_RIM-1"
+        },
+        {
+          "filename": "CSR_SS-1_sxdynt.jpg",
+          "model": "CSR_SS-1"
+        },
+        {
+          "filename": "CSR_US-1_idy800.jpg",
+          "model": "CSR_US-1"
+        },
+        {
+          "filename": "CSREP_LC-1_wdwhif.jpg",
+          "model": "CSREP_LC-1"
+        },
+        {
+          "filename": "CSRPEDALC-1_h9g426.jpg",
+          "model": "CSRPEDALC-1"
+        },
+        {
+          "filename": "CSS_CKK-1_lffben.jpg",
+          "model": "CSS_CKK-1"
+        },
+        {
+          "filename": "CSS_MV-1_ysmadk.jpg",
+          "model": "CSS_MV-1"
+        },
+        {
+          "filename": "CSS_SQ_LE_19-1_gyxbml.jpg",
+          "model": "CSS_SQ_LE_19-1"
+        },
+        {
+          "filename": "CSS_SQ-1_mabdon.jpg",
+          "model": "CSS_SQ-1"
+        },
+        {
+          "filename": "CSS_TC-1_pnlipu.jpg",
+          "model": "CSS_TC-1"
+        },
+        {
+          "filename": "CSS-1_svvt7y.jpg",
+          "model": "CSS-1"
+        },
+        {
+          "filename": "CSSP-1_f2ahh2.jpg",
+          "model": "CSSP-1"
+        },
+        {
+          "filename": "CSSP-C-1_fcadgq.jpg",
+          "model": "CSSP-C-1"
+        },
+        {
+          "filename": "CSTCV2-1_u69xst.jpg",
+          "model": "CSTCV2-1"
+        },
+        {
+          "filename": "CSW_B_AU-1_lx1gce.jpg",
+          "model": "CSW_B_AU-1"
+        },
+        {
+          "filename": "CSW_B_EU-1_xn4dyy.jpg",
+          "model": "CSW_B_EU-1"
+        },
+        {
+          "filename": "CSW_B_V2_EU-1_lkjpij.jpg",
+          "model": "CSW_B_V2_EU-1"
+        },
+        {
+          "filename": "CSW_B_V2_US-1_wh7ush.jpg",
+          "model": "CSW_B_V2_US-1"
+        },
+        {
+          "filename": "CSW_RBMW-1_xm0ufm.jpg",
+          "model": "CSW_RBMW-1"
+        },
+        {
+          "filename": "CSW_RFORM_BLACK-1_lhkjez.jpg",
+          "model": "CSW_RFORM_BLACK-1"
+        },
+        {
+          "filename": "CSW_RFORM_CAR-1_cq1mbs.jpg",
+          "model": "CSW_RFORM_CAR-1"
+        },
+        {
+          "filename": "CSW_RR918-1_g3tkkd.jpg",
+          "model": "CSW_RR918-1"
+        },
+        {
+          "filename": "CSW_RUH_XBOX-1_s6mis1.jpg",
+          "model": "CSW_RUH_XBOX-1"
+        },
+        {
+          "filename": "CSW_RUH-1_yccpxt.jpg",
+          "model": "CSW_RUH-1"
+        },
+        {
+          "filename": "CWSEN_CSW_CSRE-1_fjsr9b.jpg",
+          "model": "CWSEN_CSW_CSRE-1"
+        },
+        {
+          "filename": "CWSEN_V2-1_wb9dzm.jpg",
+          "model": "CWSEN_V2-1"
+        },
+        {
+          "filename": "DD_SHAFT_EXT-1_whpss6.jpg",
+          "model": "DD_SHAFT_EXT-1"
+        },
+        {
+          "filename": "G_AC_X1_AU-1_ptt8su.jpg",
+          "model": "G_AC_X1_AU-1"
+        },
+        {
+          "filename": "GT_DD_PRO_WB_AU-1_xohlyl.jpg",
+          "model": "GT_DD_PRO_WB_AU-1"
+        },
+        {
+          "filename": "GT_DD_PRO_WB_B_AU-1_omnlxl.jpg",
+          "model": "GT_DD_PRO_WB_B_AU-1"
+        },
+        {
+          "filename": "GT_DD_PRO_WB_B_EU-1_u9goom.jpg",
+          "model": "GT_DD_PRO_WB_B_EU-1"
+        },
+        {
+          "filename": "GT_DD_PRO_WB_B_JP-1_ck1jzu.jpg",
+          "model": "GT_DD_PRO_WB_B_JP-1"
+        },
+        {
+          "filename": "GT_DD_PRO_WB_B_US-1_b96vdf.jpg",
+          "model": "GT_DD_PRO_WB_B_US-1"
+        },
+        {
+          "filename": "GT_DD_PRO_WB_EU-1_xzcadg.jpg",
+          "model": "GT_DD_PRO_WB_EU-1"
+        },
+        {
+          "filename": "GT_DD_PRO_WB_JP-1_rhkbwt.jpg",
+          "model": "GT_DD_PRO_WB_JP-1"
+        },
+        {
+          "filename": "GT_DD_PRO_WB_QR2-1_t7o1qs.jpg",
+          "model": "GT_DD_PRO_WB_QR2-1"
+        },
+        {
+          "filename": "GT_DD_PRO_WB_US-1_h1prdy.jpg",
+          "model": "GT_DD_PRO_WB_US-1"
+        },
+        {
+          "filename": "GT_DD_RW_X_AU-1_a9nvlb.jpg",
+          "model": "GT_DD_RW_X_AU-1"
+        },
+        {
+          "filename": "GT_DD_RW_X_EU-1_ffeqby.jpg",
+          "model": "GT_DD_RW_X_EU-1"
+        },
+        {
+          "filename": "GT_DD_RW_X_JP-1_kbjw7v.jpg",
+          "model": "GT_DD_RW_X_JP-1"
+        },
+        {
+          "filename": "GT_DD_RW_X_US-1_uzf8ga.jpg",
+          "model": "GT_DD_RW_X_US-1"
+        },
+        {
+          "filename": "GT_DD_RWP_AIR_US-1_oanovs.jpg",
+          "model": "GT_DD_RWP_AIR_US-1"
+        },
+        {
+          "filename": "GT_DD_RWP_B_AU-1_ygjxcq.jpg",
+          "model": "GT_DD_RWP_B_AU-1"
+        },
+        {
+          "filename": "GT_DD_RWP_B_EU-1_snkvvo.jpg",
+          "model": "GT_DD_RWP_B_EU-1"
+        },
+        {
+          "filename": "GT_DD_RWP_B_JP-1_fi7qut.jpg",
+          "model": "GT_DD_RWP_B_JP-1"
+        },
+        {
+          "filename": "GT_DD_RWP_B_US-1_ma1wg1.jpg",
+          "model": "GT_DD_RWP_B_US-1"
+        },
+        {
+          "filename": "GT_DD_RWP_PRO_AU-1_wxuhyb.jpg",
+          "model": "GT_DD_RWP_PRO_AU-1"
+        },
+        {
+          "filename": "GT_DD_RWP_PRO_EU-1_iyswyb.jpg",
+          "model": "GT_DD_RWP_PRO_EU-1"
+        },
+        {
+          "filename": "GT_DD_RWP_PRO_JP-1_rzqfh1.jpg",
+          "model": "GT_DD_RWP_PRO_JP-1"
+        },
+        {
+          "filename": "GT_DD_RWP_PRO_QR2-1_cyb1qn.jpg",
+          "model": "GT_DD_RWP_PRO_QR2-1"
+        },
+        {
+          "filename": "GT_DD_RWP_PRO_US-1_q6defj.jpg",
+          "model": "GT_DD_RWP_PRO_US-1"
+        },
+        {
+          "filename": "GT_SW_PRO-1_vcyuon.jpg",
+          "model": "GT_SW_PRO-1"
+        },
+        {
+          "filename": "P_APM-1_hgsqzg.jpg",
+          "model": "P_APM-1"
+        },
+        {
+          "filename": "P_BM_R-1_ml3id3.jpg",
+          "model": "P_BM_R-1"
+        },
+        {
+          "filename": "P_BME-1_ama5ic.jpg",
+          "model": "P_BME-1"
+        },
+        {
+          "filename": "P_HUB_PURE-1_xfz9hu.jpg",
+          "model": "P_HUB_PURE-1"
+        },
+        {
+          "filename": "P_HUB_QRA-1_kumvwd.jpg",
+          "model": "P_HUB_QRA-1"
+        },
+        {
+          "filename": "P_KS-1_jsy1qz.jpg",
+          "model": "P_KS-1"
+        },
+        {
+          "filename": "P_MB-1_g51s4x.jpg",
+          "model": "P_MB-1"
+        },
+        {
+          "filename": "P_RW_F1_AU-1_rpzb2i.jpg",
+          "model": "P_RW_F1_AU-1"
+        },
+        {
+          "filename": "P_RW_F1_EU-1_hjndbd.jpg",
+          "model": "P_RW_F1_EU-1"
+        },
+        {
+          "filename": "P_RW_F1_US-1_nndk0n.jpg",
+          "model": "P_RW_F1_US-1"
+        },
+        {
+          "filename": "P_SW_BENT-1_evrilg.jpg",
+          "model": "P_SW_BENT-1"
+        },
+        {
+          "filename": "P_SW_BMW_GT3_H-1_gun2ot.jpg",
+          "model": "P_SW_BMW_GT3_H-1"
+        },
+        {
+          "filename": "P_SW_BMW_GT3_RCH-1_bzf3in.jpg",
+          "model": "P_SW_BMW_GT3_RCH-1"
+        },
+        {
+          "filename": "P_SW_BMW_GT4_RC-1_iqkcly.jpg",
+          "model": "P_SW_BMW_GT4_RC-1"
+        },
+        {
+          "filename": "P_SW_BMW_GT4_RCH-1_lapckf.jpg",
+          "model": "P_SW_BMW_GT4_RCH-1"
+        },
+        {
+          "filename": "P_WB_DD1_AU-1_pkg9dh.jpg",
+          "model": "P_WB_DD1_AU-1"
+        },
+        {
+          "filename": "P_WB_DD1_EU-1_l4sdq0.jpg",
+          "model": "P_WB_DD1_EU-1"
+        },
+        {
+          "filename": "P_WB_DD1_JP-1_tgooc2.jpg",
+          "model": "P_WB_DD1_JP-1"
+        },
+        {
+          "filename": "P_WB_DD1_QR2_AU-1_eghxss.jpg",
+          "model": "P_WB_DD1_QR2_AU-1"
+        },
+        {
+          "filename": "P_WB_DD1_QR2_EU-1_suw4wn.jpg",
+          "model": "P_WB_DD1_QR2_EU-1"
+        },
+        {
+          "filename": "P_WB_DD1_QR2_JP-1_vvwjei.jpg",
+          "model": "P_WB_DD1_QR2_JP-1"
+        },
+        {
+          "filename": "P_WB_DD1_QR2_US-1_lzff2c.jpg",
+          "model": "P_WB_DD1_QR2_US-1"
+        },
+        {
+          "filename": "P_WB_DD1_US-1_oommkj.jpg",
+          "model": "P_WB_DD1_US-1"
+        },
+        {
+          "filename": "P_WB_DD2_AU-1_tfs6ow.jpg",
+          "model": "P_WB_DD2_AU-1"
+        },
+        {
+          "filename": "P_WB_DD2_EU-1_oxvw8p.jpg",
+          "model": "P_WB_DD2_EU-1"
+        },
+        {
+          "filename": "P_WB_DD2_JP-1_wgagf6.jpg",
+          "model": "P_WB_DD2_JP-1"
+        },
+        {
+          "filename": "P_WB_DD2_QR2_AU-1_q09aln.jpg",
+          "model": "P_WB_DD2_QR2_AU-1"
+        },
+        {
+          "filename": "P_WB_DD2_QR2_EU-1_e6rcpy.jpg",
+          "model": "P_WB_DD2_QR2_EU-1"
+        },
+        {
+          "filename": "P_WB_DD2_QR2_JP-1_ci0g1r.jpg",
+          "model": "P_WB_DD2_QR2_JP-1"
+        },
+        {
+          "filename": "P_WB_DD2_QR2_US-1_ozftz4.jpg",
+          "model": "P_WB_DD2_QR2_US-1"
+        },
+        {
+          "filename": "P_WB_DD2_US-1_fttvvj.jpg",
+          "model": "P_WB_DD2_US-1"
+        },
+        {
+          "filename": "P1703-26513-1_vp2c8d.jpg",
+          "model": "P1703-26513-1"
+        },
+        {
+          "filename": "P2002-28104-1_vw7tfe.jpg",
+          "model": "P2002-28104-1"
+        },
+        {
+          "filename": "P2112-31092-1_aqkeqc.jpg",
+          "model": "P2112-31092-1"
+        },
+        {
+          "filename": "P2302-32826-1_x2x782.jpg",
+          "model": "P2302-32826-1"
+        },
+        {
+          "filename": "PADDG25X360-1_ncq6wz.jpg",
+          "model": "PADDG25X360-1"
+        },
+        {
+          "filename": "PSU_90_AU-1_y3zflw.jpg",
+          "model": "PSU_90_AU-1"
+        },
+        {
+          "filename": "PSU_90_EU-1_kaoop3.jpg",
+          "model": "PSU_90_EU-1"
+        },
+        {
+          "filename": "PSU_90_JP-1_imsqd4.jpg",
+          "model": "PSU_90_JP-1"
+        },
+        {
+          "filename": "PSU_90_US-1_xuhtjt.jpg",
+          "model": "PSU_90_US-1"
+        },
+        {
+          "filename": "PWGT2_AU-1_f7jf3n.jpg",
+          "model": "PWGT2_AU-1"
+        },
+        {
+          "filename": "PWGT2_RIM-1_druwvi.jpg",
+          "model": "PWGT2_RIM-1"
+        },
+        {
+          "filename": "PWGT2_US-1_gofysj.jpg",
+          "model": "PWGT2_US-1"
+        },
+        {
+          "filename": "PWGT3RSV2_AU-1_rnxb80.jpg",
+          "model": "PWGT3RSV2_AU-1"
+        },
+        {
+          "filename": "PWGT3RSV2_EU-1_ppdtg5.jpg",
+          "model": "PWGT3RSV2_EU-1"
+        },
+        {
+          "filename": "PWGT3RSV2_US-1_ed2yil.jpg",
+          "model": "PWGT3RSV2_US-1"
+        },
+        {
+          "filename": "PWPEDALC-1_x53mq4.jpg",
+          "model": "PWPEDALC-1"
+        },
+        {
+          "filename": "PWPEDALCG25-1_cupwns.jpg",
+          "model": "PWPEDALCG25-1"
+        },
+        {
+          "filename": "PWPOWERS_AU-1_phecjg.jpg",
+          "model": "PWPOWERS_AU-1"
+        },
+        {
+          "filename": "PWPOWERS_US-1_w4agre.jpg",
+          "model": "PWPOWERS_US-1"
+        },
+        {
+          "filename": "PWSHIFTERC-1_qdgpws.jpg",
+          "model": "PWSHIFTERC-1"
+        },
+        {
+          "filename": "PWTS2_US-1_rqq2nc.jpg",
+          "model": "PWTS2_US-1"
+        },
+        {
+          "filename": "PWTS2P_US-1_kxye1h.jpg",
+          "model": "PWTS2P_US-1"
+        },
+        {
+          "filename": "QR1_BS_C-1_apw9c5.jpg",
+          "model": "QR1_BS_C-1"
+        },
+        {
+          "filename": "QR1_BS_F-1_zv4alo.jpg",
+          "model": "QR1_BS_F-1"
+        },
+        {
+          "filename": "QR1_BS_M-1_wk7gha.jpg",
+          "model": "QR1_BS_M-1"
+        },
+        {
+          "filename": "QR1_TYPE_M_DOWNGRA-1_vnf5ip.jpg",
+          "model": "QR1_TYPE_M_DOWNGRA-1"
+        },
+        {
+          "filename": "QR1_WS_QRA-1_fpslxv.jpg",
+          "model": "QR1_WS_QRA-1"
+        },
+        {
+          "filename": "QR1L_WS-1_e6h7mq.jpg",
+          "model": "QR1L_WS-1"
+        },
+        {
+          "filename": "QR2_BS_C-1_fagg77.jpg",
+          "model": "QR2_BS_C-1"
+        },
+        {
+          "filename": "QR2_BS_M-1_wbnohm.jpg",
+          "model": "QR2_BS_M-1"
+        },
+        {
+          "filename": "QR2_PRO_WS-1_h4hrf6.jpg",
+          "model": "QR2_PRO_WS-1"
+        },
+        {
+          "filename": "QR2_WM-1_qipza4.jpg",
+          "model": "QR2_WM-1"
+        },
+        {
+          "filename": "QR2_WS_BLACK-1_vnfh3l.jpg",
+          "model": "QR2_WS_BLACK-1"
+        },
+        {
+          "filename": "QR2_WS-1_p9iikf.jpg",
+          "model": "QR2_WS-1"
+        },
+        {
+          "filename": "QR2L_WS-1_cfiips.jpg",
+          "model": "QR2L_WS-1"
+        },
+        {
+          "filename": "RSC_1M_V2-1_f5givt.jpg",
+          "model": "RSC_1M_V2-1"
+        },
+        {
+          "filename": "RSC_3M_V2-1_in05uy.jpg",
+          "model": "RSC_3M_V2-1"
+        },
+        {
+          "filename": "RSC_SH-1_n2kybe.jpg",
+          "model": "RSC_SH-1"
+        },
+        {
+          "filename": "RSC_SM-1_r44fxy.jpg",
+          "model": "RSC_SM-1"
+        },
+        {
+          "filename": "RSC_SPRO-1_mng4ne.jpg",
+          "model": "RSC_SPRO-1"
+        },
+        {
+          "filename": "RSC_V2-1_ftqhfq.jpg",
+          "model": "RSC_V2-1"
+        },
+        {
+          "filename": "RSWS_V2-1_d29rnq.jpg",
+          "model": "RSWS_V2-1"
+        },
+        {
+          "filename": "SERVICE-1_xnyupt.jpg",
+          "model": "SERVICE-1"
+        },
+        {
+          "filename": "SFAN-1_qb3iwr.jpg",
+          "model": "SFAN-1"
+        },
+        {
+          "filename": "SPARCO_R383-1_bayqiz.jpg",
+          "model": "SPARCO_R383-1"
+        },
+        {
+          "filename": "SSA-1_nvm14p.jpg",
+          "model": "SSA-1"
+        },
+        {
+          "filename": "STICKER_SET-1_lk8kyn.jpg",
+          "model": "STICKER_SET-1"
+        },
+        {
+          "filename": "UH_R300-1_qglizm.jpg",
+          "model": "UH_R300-1"
+        },
+        {
+          "filename": "UH_R300-RV-1_ehdr3b.jpg",
+          "model": "UH_R300-RV-1"
+        },
+        {
+          "filename": "UH_R330-1_ifgwe0.jpg",
+          "model": "UH_R330-1"
+        },
+        {
+          "filename": "UH_R330-RV-1_yeqcsh.jpg",
+          "model": "UH_R330-RV-1"
+        },
+        {
+          "filename": "UH_R911-1_qht7lw.jpg",
+          "model": "UH_R911-1"
+        },
+        {
+          "filename": "UH_R911-RV-1_qn7coy.jpg",
+          "model": "UH_R911-RV-1"
+        },
+        {
+          "filename": "UH_R911S-1_zwupzz.jpg",
+          "model": "UH_R911S-1"
+        },
+        {
+          "filename": "UH_R911S-RV-1_zoepec.jpg",
+          "model": "UH_R911S-RV-1"
+        },
+        {
+          "filename": "UH_RCLASSIC-1_eyiij5.jpg",
+          "model": "UH_RCLASSIC-1"
+        },
+        {
+          "filename": "UH_RCLASSIC2-1_pzvm97.jpg",
+          "model": "UH_RCLASSIC2-1"
+        },
+        {
+          "filename": "UH_RDRIFT-1_q5mizd.jpg",
+          "model": "UH_RDRIFT-1"
+        },
+        {
+          "filename": "UH_RFLAT1-1_wrxwbt.jpg",
+          "model": "UH_RFLAT1-1"
+        },
+        {
+          "filename": "UH_RFLAT1-RV-1_ye4opk.jpg",
+          "model": "UH_RFLAT1-RV-1"
+        },
+        {
+          "filename": "UH_RFLAT2-1_tk6tic.jpg",
+          "model": "UH_RFLAT2-1"
+        },
+        {
+          "filename": "UH_RGT-1_f7ufub.jpg",
+          "model": "UH_RGT-1"
+        },
+        {
+          "filename": "UH_RGT-RV-1_uksovp.jpg",
+          "model": "UH_RGT-RV-1"
+        },
+        {
+          "filename": "UH_RGTAL-1_w9wwad.jpg",
+          "model": "UH_RGTAL-1"
+        },
+        {
+          "filename": "UH_RGTAL-RV-1_qqzj0w.jpg",
+          "model": "UH_RGTAL-RV-1"
+        },
+        {
+          "filename": "UH_RGTF-1_p3tdsy.jpg",
+          "model": "UH_RGTF-1"
+        },
+        {
+          "filename": "UH_RNASCAR-1_b9lwsz.jpg",
+          "model": "UH_RNASCAR-1"
+        },
+        {
+          "filename": "UH_ROVAL-1_oa8rlt.jpg",
+          "model": "UH_ROVAL-1"
+        },
+        {
+          "filename": "UH_RROUND1-1_nlvokh.jpg",
+          "model": "UH_RROUND1-1"
+        },
+        {
+          "filename": "WD-HS420022-1_ktt4gr.jpg",
+          "model": "WD-HS420022-1"
+        },
+        {
+          "filename": "XBOX_HAC-1_trxrzp.jpg",
+          "model": "XBOX_HAC-1"
+        }
+      ]
+    },
+    {
+      "name": "DELL - Displays",
+      "folder": "DELL - Displays",
+      "products": [
+        {
+          "filename": "AW2726DL.jpg",
+          "model": "AW2726DL"
+        },
+        {
+          "filename": "AW2726DM.jpg",
+          "model": "AW2726DM"
+        },
+        {
+          "filename": "AW3226DM.jpg",
+          "model": "AW3226DM"
+        },
+        {
+          "filename": "AW3426DW.jpg",
+          "model": "AW3426DW"
+        },
+        {
+          "filename": "AW3426DWM.jpg",
+          "model": "AW3426DWM"
+        },
+        {
+          "filename": "AW2523HF.jpg",
+          "model": "AW2523HF"
+        },
+        {
+          "filename": "AW2524HF.jpg",
+          "model": "AW2524HF"
+        },
+        {
+          "filename": "AW2525HM.jpg",
+          "model": "AW2525HM"
+        },
+        {
+          "filename": "AW2723DF.jpg",
+          "model": "AW2723DF"
+        },
+        {
+          "filename": "AW2724DM.jpg",
+          "model": "AW2724DM"
+        },
+        {
+          "filename": "AW2724HF.jpg",
+          "model": "AW2724HF"
+        },
+        {
+          "filename": "AW2725D.jpg",
+          "model": "AW2725D"
+        },
+        {
+          "filename": "AW2725DF.jpg",
+          "model": "AW2725DF"
+        },
+        {
+          "filename": "AW2725DM.jpg",
+          "model": "AW2725DM"
+        },
+        {
+          "filename": "AW2725Q.jpg",
+          "model": "AW2725Q"
+        },
+        {
+          "filename": "AW2725QF.jpg",
+          "model": "AW2725QF"
+        },
+        {
+          "filename": "AW3225DM.jpg",
+          "model": "AW3225DM"
+        },
+        {
+          "filename": "AW3225QF.jpg",
+          "model": "AW3225QF"
+        },
+        {
+          "filename": "AW3423DWF.jpg",
+          "model": "AW3423DWF"
+        },
+        {
+          "filename": "AW3425DW.jpg",
+          "model": "AW3425DW"
+        },
+        {
+          "filename": "AW3425DWM.jpg",
+          "model": "AW3425DWM"
+        },
+        {
+          "filename": "SE2225HM.jpg",
+          "model": "SE2225HM"
+        },
+        {
+          "filename": "S2425HSM.jpg",
+          "model": "S2425HSM"
+        },
+        {
+          "filename": "SE2425HM.jpg",
+          "model": "SE2425HM"
+        },
+        {
+          "filename": "SE2426H.jpg",
+          "model": "SE2426H"
+        },
+        {
+          "filename": "SE2426HG.jpg",
+          "model": "SE2426HG"
+        },
+        {
+          "filename": "SE2426HS.jpg",
+          "model": "SE2426HS"
+        },
+        {
+          "filename": "SE2426HSR.jpg",
+          "model": "SE2426HSR"
+        },
+        {
+          "filename": "S2725DC.jpg",
+          "model": "S2725DC"
+        },
+        {
+          "filename": "S2725DSM.jpg",
+          "model": "S2725DSM"
+        },
+        {
+          "filename": "S2725HSM.jpg",
+          "model": "S2725HSM"
+        },
+        {
+          "filename": "S2725QC.jpg",
+          "model": "S2725QC"
+        },
+        {
+          "filename": "S2725QS.jpg",
+          "model": "S2725QS"
+        },
+        {
+          "filename": "SE2725HM.jpg",
+          "model": "SE2725HM"
+        },
+        {
+          "filename": "SE2726D.jpg",
+          "model": "SE2726D"
+        },
+        {
+          "filename": "SE2726H.jpg",
+          "model": "SE2726H"
+        },
+        {
+          "filename": "SE2726HG.jpg",
+          "model": "SE2726HG"
+        },
+        {
+          "filename": "SE2726HS.jpg",
+          "model": "SE2726HS"
+        },
+        {
+          "filename": "SE2726HSR.jpg",
+          "model": "SE2726HSR"
+        },
+        {
+          "filename": "S3225QC.jpg",
+          "model": "S3225QC"
+        },
+        {
+          "filename": "S3225QS.jpg",
+          "model": "S3225QS"
+        },
+        {
+          "filename": "S3425DW.jpg",
+          "model": "S3425DW"
+        },
+        {
+          "filename": "C1422H.jpg",
+          "model": "C1422H"
+        },
+        {
+          "filename": "C2423H.jpg",
+          "model": "C2423H"
+        },
+        {
+          "filename": "C5522QT.jpg",
+          "model": "C5522QT"
+        },
+        {
+          "filename": "E1715S.jpg",
+          "model": "E1715S"
+        },
+        {
+          "filename": "E2020H.jpg",
+          "model": "E2020H"
+        },
+        {
+          "filename": "E2223HN.jpg",
+          "model": "E2223HN"
+        },
+        {
+          "filename": "E2425HS.jpg",
+          "model": "E2425HS"
+        },
+        {
+          "filename": "P1424H.jpg",
+          "model": "P1424H"
+        },
+        {
+          "filename": "P1917S.jpg",
+          "model": "P1917S"
+        },
+        {
+          "filename": "P2222H.jpg",
+          "model": "P2222H"
+        },
+        {
+          "filename": "P2225H.jpg",
+          "model": "P2225H"
+        },
+        {
+          "filename": "P2422.jpg",
+          "model": "P2422"
+        },
+        {
+          "filename": "P2422HE.jpg",
+          "model": "P2422HE"
+        },
+        {
+          "filename": "P2423.jpg",
+          "model": "P2423"
+        },
+        {
+          "filename": "P2423D.jpg",
+          "model": "P2423D"
+        },
+        {
+          "filename": "P2423DE.jpg",
+          "model": "P2423DE"
+        },
+        {
+          "filename": "P2424HEB.jpg",
+          "model": "P2424HEB"
+        },
+        {
+          "filename": "P2424HT.jpg",
+          "model": "P2424HT"
+        },
+        {
+          "filename": "P2425.jpg",
+          "model": "P2425"
+        },
+        {
+          "filename": "P2425E.jpg",
+          "model": "P2425E"
+        },
+        {
+          "filename": "P2425H.jpg",
+          "model": "P2425H"
+        },
+        {
+          "filename": "P2425HE.jpg",
+          "model": "P2425HE"
+        },
+        {
+          "filename": "P2722H.jpg",
+          "model": "P2722H"
+        },
+        {
+          "filename": "P2722HE.jpg",
+          "model": "P2722HE"
+        },
+        {
+          "filename": "P2723D.jpg",
+          "model": "P2723D"
+        },
+        {
+          "filename": "P2723DE.jpg",
+          "model": "P2723DE"
+        },
+        {
+          "filename": "P2723QE.jpg",
+          "model": "P2723QE"
+        },
+        {
+          "filename": "P2724DEB.jpg",
+          "model": "P2724DEB"
+        },
+        {
+          "filename": "P2725H.jpg",
+          "model": "P2725H"
+        },
+        {
+          "filename": "P2725HE.jpg",
+          "model": "P2725HE"
+        },
+        {
+          "filename": "P3223DE.jpg",
+          "model": "P3223DE"
+        },
+        {
+          "filename": "P3223QR.jpg",
+          "model": "P3223QR"
+        },
+        {
+          "filename": "P3424WEB.jpg",
+          "model": "P3424WEB"
+        },
+        {
+          "filename": "P5525QC.jpg",
+          "model": "P5525QC"
+        },
+        {
+          "filename": "P6524QT.jpg",
+          "model": "P6524QT"
+        },
+        {
+          "filename": "P7524QT.jpg",
+          "model": "P7524QT"
+        },
+        {
+          "filename": "S2722DC.jpg",
+          "model": "S2722DC"
+        },
+        {
+          "filename": "S3423DWC.jpg",
+          "model": "S3423DWC"
+        },
+        {
+          "filename": "P1425.jpg",
+          "model": "P1425"
+        },
+        {
+          "filename": "E2225HM.jpg",
+          "model": "E2225HM"
+        },
+        {
+          "filename": "E2225HSM.jpg",
+          "model": "E2225HSM"
+        },
+        {
+          "filename": "P2226H.jpg",
+          "model": "P2226H"
+        },
+        {
+          "filename": "E2425HM.jpg",
+          "model": "E2425HM"
+        },
+        {
+          "filename": "E2425HSM.jpg",
+          "model": "E2425HSM"
+        },
+        {
+          "filename": "E2426HB.jpg",
+          "model": "E2426HB"
+        },
+        {
+          "filename": "P2425D.jpg",
+          "model": "P2425D"
+        },
+        {
+          "filename": "P2425DE.jpg",
+          "model": "P2425DE"
+        },
+        {
+          "filename": "P2426.jpg",
+          "model": "P2426"
+        },
+        {
+          "filename": "P2426E.jpg",
+          "model": "P2426E"
+        },
+        {
+          "filename": "P2426H.jpg",
+          "model": "P2426H"
+        },
+        {
+          "filename": "P2426HE.jpg",
+          "model": "P2426HE"
+        },
+        {
+          "filename": "P2426HEB.jpg",
+          "model": "P2426HEB"
+        },
+        {
+          "filename": "P2426HEV.jpg",
+          "model": "P2426HEV"
+        },
+        {
+          "filename": "E2725HM.jpg",
+          "model": "E2725HM"
+        },
+        {
+          "filename": "E2726DS.jpg",
+          "model": "E2726DS"
+        },
+        {
+          "filename": "E2726HS.jpg",
+          "model": "E2726HS"
+        },
+        {
+          "filename": "P2725D.jpg",
+          "model": "P2725D"
+        },
+        {
+          "filename": "P2725DE.jpg",
+          "model": "P2725DE"
+        },
+        {
+          "filename": "P2725QE.jpg",
+          "model": "P2725QE"
+        },
+        {
+          "filename": "P2726DEB.jpg",
+          "model": "P2726DEB"
+        },
+        {
+          "filename": "P2726DEV.jpg",
+          "model": "P2726DEV"
+        },
+        {
+          "filename": "P2726H.jpg",
+          "model": "P2726H"
+        },
+        {
+          "filename": "P2726HE.jpg",
+          "model": "P2726HE"
+        },
+        {
+          "filename": "P3225DE.jpg",
+          "model": "P3225DE"
+        },
+        {
+          "filename": "P3225QE.jpg",
+          "model": "P3225QE"
+        },
+        {
+          "filename": "P3425WE.jpg",
+          "model": "P3425WE"
+        },
+        {
+          "filename": "P3426WEB.jpg",
+          "model": "P3426WEB"
+        },
+        {
+          "filename": "P3426WEV.jpg",
+          "model": "P3426WEV"
+        },
+        {
+          "filename": "P7525QT.jpg",
+          "model": "P7525QT"
+        },
+        {
+          "filename": "E2226H.jpg",
+          "model": "E2226H"
+        },
+        {
+          "filename": "E2226HS.jpg",
+          "model": "E2226HS"
+        },
+        {
+          "filename": "E2426H.jpg",
+          "model": "E2426H"
+        },
+        {
+          "filename": "E2426HS.jpg",
+          "model": "E2426HS"
+        },
+        {
+          "filename": "E2726H.jpg",
+          "model": "E2726H"
+        },
+        {
+          "filename": "E2726HSM.jpg",
+          "model": "E2726HSM"
+        },
+        {
+          "filename": "SE2425HG.jpg",
+          "model": "SE2425HG"
+        },
+        {
+          "filename": "SE2725HG.jpg",
+          "model": "SE2725HG"
+        },
+        {
+          "filename": "U2726DER.jpg",
+          "model": "U2726DER"
+        },
+        {
+          "filename": "U2726QER.jpg",
+          "model": "U2726QER"
+        },
+        {
+          "filename": "U3226Q.jpg",
+          "model": "U3226Q"
+        },
+        {
+          "filename": "U3226QER.jpg",
+          "model": "U3226QER"
+        },
+        {
+          "filename": "U3426WER.jpg",
+          "model": "U3426WER"
+        },
+        {
+          "filename": "U4026QWR.jpg",
+          "model": "U4026QWR"
+        },
+        {
+          "filename": "U2421E.jpg",
+          "model": "U2421E"
+        },
+        {
+          "filename": "U2424H.jpg",
+          "model": "U2424H"
+        },
+        {
+          "filename": "U2424HE.jpg",
+          "model": "U2424HE"
+        },
+        {
+          "filename": "U2723QE.jpg",
+          "model": "U2723QE"
+        },
+        {
+          "filename": "U2724D.jpg",
+          "model": "U2724D"
+        },
+        {
+          "filename": "U2724DE.jpg",
+          "model": "U2724DE"
+        },
+        {
+          "filename": "U2725QE.jpg",
+          "model": "U2725QE"
+        },
+        {
+          "filename": "U3223QE.jpg",
+          "model": "U3223QE"
+        },
+        {
+          "filename": "U3224KB.jpg",
+          "model": "U3224KB"
+        },
+        {
+          "filename": "U3225QE.jpg",
+          "model": "U3225QE"
+        },
+        {
+          "filename": "U3425WE.jpg",
+          "model": "U3425WE"
+        },
+        {
+          "filename": "U3824DW.jpg",
+          "model": "U3824DW"
+        },
+        {
+          "filename": "U4025QW.jpg",
+          "model": "U4025QW"
+        },
+        {
+          "filename": "U4323QE.jpg",
+          "model": "U4323QE"
+        },
+        {
+          "filename": "U4924DW.jpg",
+          "model": "U4924DW"
+        },
+        {
+          "filename": "U5226KW.jpg",
+          "model": "U5226KW"
+        },
+        {
+          "filename": "UP3218K.jpg",
+          "model": "UP3218K"
+        },
+        {
+          "filename": "UP3221Q.jpg",
+          "model": "UP3221Q"
+        },
+        {
+          "filename": "P4326QEB.jpg",
+          "model": "P4326QEB"
+        }
+      ]
+    },
+    {
+      "name": "DELL - Docking",
+      "folder": "DELL - Docking",
+      "products": [
+        {
+          "filename": "UD22.jpg",
+          "model": "UD22"
+        },
+        {
+          "filename": "WD19DCS.jpg",
+          "model": "WD19DCS"
+        },
+        {
+          "filename": "WD19S.jpg",
+          "model": "WD19S"
+        },
+        {
+          "filename": "WD22TB4.jpg",
+          "model": "WD22TB4"
+        },
+        {
+          "filename": "WD25.jpg",
+          "model": "WD25"
+        },
+        {
+          "filename": "WD25Z.jpg",
+          "model": "WD25Z"
+        },
+        {
+          "filename": "SD25.jpg",
+          "model": "SD25"
+        },
+        {
+          "filename": "WD25TB4.jpg",
+          "model": "WD25TB4"
+        },
+        {
+          "filename": "SD25TB4.jpg",
+          "model": "SD25TB4"
+        },
+        {
+          "filename": "WD25TB5.jpg",
+          "model": "WD25TB5"
+        },
+        {
+          "filename": "SD25TB5.jpg",
+          "model": "SD25TB5"
+        }
+      ]
+    },
+    {
+      "name": "DELL - Periferije",
+      "folder": "DELL - Periferije",
+      "products": [
+        {
+          "filename": "AW5625P.jpg",
+          "model": "AW5625P"
+        },
+        {
+          "filename": "AW7825P.jpg",
+          "model": "AW7825P"
+        },
+        {
+          "filename": "CC3624.jpg",
+          "model": "CC3624"
+        },
+        {
+          "filename": "CC5624S.jpg",
+          "model": "CC5624S"
+        },
+        {
+          "filename": "CC5626.jpg",
+          "model": "CC5626"
+        },
+        {
+          "filename": "CC7625.jpg",
+          "model": "CC7625"
+        },
+        {
+          "filename": "CFS25.jpg",
+          "model": "CFS25"
+        },
+        {
+          "filename": "CG7325L.jpg",
+          "model": "CG7325L"
+        },
+        {
+          "filename": "CP3724.jpg",
+          "model": "CP3724"
+        },
+        {
+          "filename": "CP5426G.jpg",
+          "model": "CP5426G"
+        },
+        {
+          "filename": "CP5625G.jpg",
+          "model": "CP5625G"
+        },
+        {
+          "filename": "CP5626.jpg",
+          "model": "CP5626"
+        },
+        {
+          "filename": "CP5724S.jpg",
+          "model": "CP5724S"
+        },
+        {
+          "filename": "CP7625.jpg",
+          "model": "CP7625"
+        },
+        {
+          "filename": "CP7625S.jpg",
+          "model": "CP7625S"
+        },
+        {
+          "filename": "CV4425.jpg",
+          "model": "CV4425"
+        },
+        {
+          "filename": "CV4625.jpg",
+          "model": "CV4625"
+        },
+        {
+          "filename": "CV5426.jpg",
+          "model": "CV5426"
+        },
+        {
+          "filename": "CV5626.jpg",
+          "model": "CV5626"
+        },
+        {
+          "filename": "DA225.jpg",
+          "model": "DA225"
+        },
+        {
+          "filename": "DA326.jpg",
+          "model": "DA326"
+        },
+        {
+          "filename": "HDA26.jpg",
+          "model": "HDA26"
+        },
+        {
+          "filename": "KB216.jpg",
+          "model": "KB216"
+        },
+        {
+          "filename": "KB500.jpg",
+          "model": "KB500"
+        },
+        {
+          "filename": "KB522.jpg",
+          "model": "KB522"
+        },
+        {
+          "filename": "KB525C.jpg",
+          "model": "KB525C"
+        },
+        {
+          "filename": "KB526.jpg",
+          "model": "KB526"
+        },
+        {
+          "filename": "KB700.jpg",
+          "model": "KB700"
+        },
+        {
+          "filename": "KB726.jpg",
+          "model": "KB726"
+        },
+        {
+          "filename": "KB740.jpg",
+          "model": "KB740"
+        },
+        {
+          "filename": "KB746.jpg",
+          "model": "KB746"
+        },
+        {
+          "filename": "KB813.jpg",
+          "model": "KB813"
+        },
+        {
+          "filename": "KB900.jpg",
+          "model": "KB900"
+        },
+        {
+          "filename": "KM3322W.jpg",
+          "model": "KM3322W"
+        },
+        {
+          "filename": "KM5221W.jpg",
+          "model": "KM5221W"
+        },
+        {
+          "filename": "KM526.jpg",
+          "model": "KM526"
+        },
+        {
+          "filename": "KM555.jpg",
+          "model": "KM555"
+        },
+        {
+          "filename": "KM7120W.jpg",
+          "model": "KM7120W"
+        },
+        {
+          "filename": "KM726.jpg",
+          "model": "KM726"
+        },
+        {
+          "filename": "KM7321W.jpg",
+          "model": "KM7321W"
+        },
+        {
+          "filename": "KM746.jpg",
+          "model": "KM746"
+        },
+        {
+          "filename": "KM900.jpg",
+          "model": "KM900"
+        },
+        {
+          "filename": "MDA20.jpg",
+          "model": "MDA20"
+        },
+        {
+          "filename": "MDS26.jpg",
+          "model": "MDS26"
+        },
+        {
+          "filename": "MFS22.jpg",
+          "model": "MFS22"
+        },
+        {
+          "filename": "MS116.jpg",
+          "model": "MS116"
+        },
+        {
+          "filename": "MS300.jpg",
+          "model": "MS300"
+        },
+        {
+          "filename": "MS3220.jpg",
+          "model": "MS3220"
+        },
+        {
+          "filename": "MS3320W.jpg",
+          "model": "MS3320W"
+        },
+        {
+          "filename": "MS355.jpg",
+          "model": "MS355"
+        },
+        {
+          "filename": "MS5120W.jpg",
+          "model": "MS5120W"
+        },
+        {
+          "filename": "MS526.jpg",
+          "model": "MS526"
+        },
+        {
+          "filename": "MS526C.jpg",
+          "model": "MS526C"
+        },
+        {
+          "filename": "MS5320W.jpg",
+          "model": "MS5320W"
+        },
+        {
+          "filename": "MS700.jpg",
+          "model": "MS700"
+        },
+        {
+          "filename": "MS726.jpg",
+          "model": "MS726"
+        },
+        {
+          "filename": "MS7421W.jpg",
+          "model": "MS7421W"
+        },
+        {
+          "filename": "MS746.jpg",
+          "model": "MS746"
+        },
+        {
+          "filename": "MS900.jpg",
+          "model": "MS900"
+        },
+        {
+          "filename": "MSA20.jpg",
+          "model": "MSA20"
+        },
+        {
+          "filename": "OSS25.jpg",
+          "model": "OSS25"
+        },
+        {
+          "filename": "PN5122W.jpg",
+          "model": "PN5122W"
+        },
+        {
+          "filename": "PN526.jpg",
+          "model": "PN526"
+        },
+        {
+          "filename": "PN7522W.jpg",
+          "model": "PN7522W"
+        },
+        {
+          "filename": "SB521A.jpg",
+          "model": "SB521A"
+        },
+        {
+          "filename": "SB725.jpg",
+          "model": "SB725"
+        },
+        {
+          "filename": "SL525.jpg",
+          "model": "SL525"
+        },
+        {
+          "filename": "SP3022.jpg",
+          "model": "SP3022"
+        },
+        {
+          "filename": "SP325.jpg",
+          "model": "SP325"
+        },
+        {
+          "filename": "WB3023.jpg",
+          "model": "WB3023"
+        },
+        {
+          "filename": "WB5023.jpg",
+          "model": "WB5023"
+        },
+        {
+          "filename": "WB526.jpg",
+          "model": "WB526"
+        },
+        {
+          "filename": "WB7022.jpg",
+          "model": "WB7022"
+        },
+        {
+          "filename": "WB726.jpg",
+          "model": "WB726"
+        },
+        {
+          "filename": "WH125.jpg",
+          "model": "WH125"
+        },
+        {
+          "filename": "WH3024.jpg",
+          "model": "WH3024"
+        },
+        {
+          "filename": "WH5024.jpg",
+          "model": "WH5024"
+        },
+        {
+          "filename": "WL3024.jpg",
+          "model": "WL3024"
+        },
+        {
+          "filename": "WL5024.jpg",
+          "model": "WL5024"
+        },
+        {
+          "filename": "WL7024.jpg",
+          "model": "WL7024"
+        },
+        {
+          "filename": "WM118.jpg",
+          "model": "WM118"
+        },
+        {
+          "filename": "WM126.jpg",
+          "model": "WM126"
+        },
+        {
+          "filename": "WR221.jpg",
+          "model": "WR221"
+        },
+        {
+          "filename": "WR3.jpg",
+          "model": "WR3"
+        }
+      ]
+    },
+    {
+      "name": "DELL - Systems",
+      "folder": "DELL - Systems",
+      "products": [
+        {
+          "filename": "Pro-13-Prem-PA13250.jpg",
+          "model": "Pro-13-Prem-PA13250"
+        },
+        {
+          "filename": "Pro-14-Prem-PA14250.jpg",
+          "model": "Pro-14-Prem-PA14250"
+        },
+        {
+          "filename": "Pro-24-AIO-Plus-QB24250.jpg",
+          "model": "Pro-24-AIO-Plus-QB24250"
+        },
+        {
+          "filename": "Pro-Max-16-Plus-MB16250.jpg",
+          "model": "Pro-Max-16-Plus-MB16250"
+        },
+        {
+          "filename": "Pro-Max-18-Plus-MB18250.jpg",
+          "model": "Pro-Max-18-Plus-MB18250"
+        },
+        {
+          "filename": "Pro-Micro-Plus-QBM1250.jpg",
+          "model": "Pro-Micro-Plus-QBM1250"
+        },
+        {
+          "filename": "Pro-Micro-Plus-XE-QBM1250.jpg",
+          "model": "Pro-Micro-Plus-XE-QBM1250"
+        },
+        {
+          "filename": "Pro-Prec-7-R1-PW7R1260.jpg",
+          "model": "Pro-Prec-7-R1-PW7R1260"
+        },
+        {
+          "filename": "Pro-Prec-7-R1-XE-PW7R1260.jpg",
+          "model": "Pro-Prec-7-R1-XE-PW7R1260"
+        },
+        {
+          "filename": "Pro-Prec-9-T2-PW9T2260.jpg",
+          "model": "Pro-Prec-9-T2-PW9T2260"
+        },
+        {
+          "filename": "Pro-Prec-9-T2-XL-PW9T2260.jpg",
+          "model": "Pro-Prec-9-T2-XL-PW9T2260"
+        },
+        {
+          "filename": "Pro-Prec-9-T4-PW9T4260.jpg",
+          "model": "Pro-Prec-9-T4-PW9T4260"
+        },
+        {
+          "filename": "Pro-Prec-9-T4-XL-PW9T4260.jpg",
+          "model": "Pro-Prec-9-T4-XL-PW9T4260"
+        },
+        {
+          "filename": "Pro-Premium-14-PA14260.jpg",
+          "model": "Pro-Premium-14-PA14260"
+        },
+        {
+          "filename": "Pro-Rugged-10-Tab-RA00260.jpg",
+          "model": "Pro-Rugged-10-Tab-RA00260"
+        },
+        {
+          "filename": "Pro-Rugged-12-Tab-RA02260.jpg",
+          "model": "Pro-Rugged-12-Tab-RA02260"
+        },
+        {
+          "filename": "Pro-Rugged-13-RA13250.jpg",
+          "model": "Pro-Rugged-13-RA13250"
+        },
+        {
+          "filename": "Pro-Rugged-14-RB14250.jpg",
+          "model": "Pro-Rugged-14-RB14250"
+        },
+        {
+          "filename": "Pro-Slim-Plus-QBS1250.jpg",
+          "model": "Pro-Slim-Plus-QBS1250"
+        },
+        {
+          "filename": "Pro-Slim-Plus-XE-QBS1250.jpg",
+          "model": "Pro-Slim-Plus-XE-QBS1250"
+        },
+        {
+          "filename": "Pro-Tower-Plus-QBT1250.jpg",
+          "model": "Pro-Tower-Plus-QBT1250"
+        },
+        {
+          "filename": "Pro-Tower-Plus-XE-QBT1250.jpg",
+          "model": "Pro-Tower-Plus-XE-QBT1250"
+        },
+        {
+          "filename": "Latitude-7350.jpg",
+          "model": "Latitude-7350"
+        },
+        {
+          "filename": "Latitude-7455.jpg",
+          "model": "Latitude-7455"
+        },
+        {
+          "filename": "Latitude-Rugged-7230.jpg",
+          "model": "Latitude-Rugged-7230"
+        },
+        {
+          "filename": "Latitude-Rugged-Extreme-7030.jpg",
+          "model": "Latitude-Rugged-Extreme-7030"
+        },
+        {
+          "filename": "Optiplex-7000.jpg",
+          "model": "Optiplex-7000"
+        },
+        {
+          "filename": "Precision-5860-Tower.jpg",
+          "model": "Precision-5860-Tower"
+        },
+        {
+          "filename": "Precision-5860-XL-Tower.jpg",
+          "model": "Precision-5860-XL-Tower"
+        },
+        {
+          "filename": "Precision-7680.jpg",
+          "model": "Precision-7680"
+        },
+        {
+          "filename": "Precision-7780.jpg",
+          "model": "Precision-7780"
+        },
+        {
+          "filename": "Precision-7875-Tower-XL.jpg",
+          "model": "Precision-7875-Tower-XL"
+        },
+        {
+          "filename": "Precision-7875-Tower.jpg",
+          "model": "Precision-7875-Tower"
+        },
+        {
+          "filename": "Precision-7960-Rack.jpg",
+          "model": "Precision-7960-Rack"
+        },
+        {
+          "filename": "Precision-7960-Tower.jpg",
+          "model": "Precision-7960-Tower"
+        },
+        {
+          "filename": "Precision-7960-XL-Rack.jpg",
+          "model": "Precision-7960-XL-Rack"
+        },
+        {
+          "filename": "Precision-7960-XL-Tower.jpg",
+          "model": "Precision-7960-XL-Tower"
+        }
+      ]
+    },
+    {
+      "name": "HP",
+      "folder": "HP",
+      "products": [
+        {
+          "filename": "Ink Bottles.png",
+          "model": "Ink Bottles"
+        },
+        {
+          "filename": "PageWide Supplies.png",
+          "model": "PageWide Supplies"
+        },
+        {
+          "filename": "Toner Supplies.png",
+          "model": "Toner Supplies"
+        },
+        {
+          "filename": "LaserJet Ent Flow MFP 5800zf.png",
+          "model": "LaserJet Ent Flow MFP 5800zf"
+        },
+        {
+          "filename": "LaserJet Pro 3202dw.png",
+          "model": "LaserJet Pro 3202dw"
+        }
+      ]
+    },
+    {
+      "name": "MSI",
+      "folder": "MSI",
+      "products": [
+        {
+          "filename": "MicroStar Int Storage SSD.png",
+          "model": "MicroStar Int Storage SSD"
+        },
+        {
+          "filename": "MicroStar Int Storage VGA.png",
+          "model": "MicroStar Int Storage VGA"
+        },
+        {
+          "filename": "MicroStar Int Storage WiFi USB.png",
+          "model": "MicroStar Int Storage WiFi USB"
+        }
+      ]
+    },
+    {
+      "name": "TRUST",
+      "folder": "Trust",
+      "products": [
+        {
+          "filename": "2.0 Speaker set.jpg",
+          "model": "2.0 Speaker set"
+        },
+        {
+          "filename": "Ador 2.0 Speaker Set.jpg",
+          "model": "Ador 2.0 Speaker Set"
+        },
+        {
+          "filename": "Arova keyboard.jpg",
+          "model": "Arova keyboard"
+        },
+        {
+          "filename": "Arova Multi-wireless keyboard & mouse set.jpg",
+          "model": "Arova Multi-wireless keyboard & mouse set"
+        },
+        {
+          "filename": "Arova Multi-wireless LED keyboard.jpg",
+          "model": "Arova Multi-wireless LED keyboard"
+        },
+        {
+          "filename": "Arys Compact 2.0 Speaker RGB.jpg",
+          "model": "Arys Compact 2.0 Speaker RGB"
+        },
+        {
+          "filename": "Arys Soundbar.jpg",
+          "model": "Arys Soundbar"
+        },
+        {
+          "filename": "Arys.jpg",
+          "model": "Arys"
+        },
+        {
+          "filename": "Asto Soundbar.jpg",
+          "model": "Asto Soundbar"
+        },
+        {
+          "filename": "Atlanta Laptop Bag 15.6”.jpg",
+          "model": "Atlanta Laptop Bag 15.6”"
+        },
+        {
+          "filename": "Avala 10.000 PD Powerbank.jpg",
+          "model": "Avala 10.000 PD Powerbank"
+        },
+        {
+          "filename": "Avala 20.000 PD Powerbank.jpg",
+          "model": "Avala 20.000 PD Powerbank"
+        },
+        {
+          "filename": "Avana 16” Backpack.jpg",
+          "model": "Avana 16” Backpack"
+        },
+        {
+          "filename": "Avora 2.1.jpg",
+          "model": "Avora 2.1"
+        },
+        {
+          "filename": "Ayda 3.5 mm.jpg",
+          "model": "Ayda 3.5 mm"
+        },
+        {
+          "filename": "Ayda crne.jpg",
+          "model": "Ayda crne"
+        },
+        {
+          "filename": "Ayda MAX ENC USB crne.jpg",
+          "model": "Ayda MAX ENC USB crne"
+        },
+        {
+          "filename": "Ayda MAX USB crne.jpg",
+          "model": "Ayda MAX USB crne"
+        },
+        {
+          "filename": "Ayda MAX.jpg",
+          "model": "Ayda MAX"
+        },
+        {
+          "filename": "Ayda USB-ENC PC Headset.jpg",
+          "model": "Ayda USB-ENC PC Headset"
+        },
+        {
+          "filename": "Ayda Wireless ENC Headset.jpg",
+          "model": "Ayda Wireless ENC Headset"
+        },
+        {
+          "filename": "Azura Wireless Party Speaker.jpg",
+          "model": "Azura Wireless Party Speaker"
+        },
+        {
+          "filename": "Basi.jpg",
+          "model": "Basi"
+        },
+        {
+          "filename": "Basics srebrna.jpg",
+          "model": "Basics srebrna"
+        },
+        {
+          "filename": "Basics.jpg",
+          "model": "Basics"
+        },
+        {
+          "filename": "Bayo II bezicni 25145.jpg",
+          "model": "Bayo II bezicni 25145"
+        },
+        {
+          "filename": "Bayo II bezicni 25398.jpg",
+          "model": "Bayo II bezicni 25398"
+        },
+        {
+          "filename": "Bayo II Ergonomic Mouse.jpg",
+          "model": "Bayo II Ergonomic Mouse"
+        },
+        {
+          "filename": "Bayo II.jpg",
+          "model": "Bayo II"
+        },
+        {
+          "filename": "Bayo+ Ergonomic Wireless Mouse B.jpg",
+          "model": "Bayo+ Ergonomic Wireless Mouse B"
+        },
+        {
+          "filename": "Bayo+ Ergonomic Wireless Mouse W.jpg",
+          "model": "Bayo+ Ergonomic Wireless Mouse W"
+        },
+        {
+          "filename": "Benya XXL Desk Pad.jpg",
+          "model": "Benya XXL Desk Pad"
+        },
+        {
+          "filename": "Bigfoot Mousepad.jpg",
+          "model": "Bigfoot Mousepad"
+        },
+        {
+          "filename": "Bigfoot XL.jpg",
+          "model": "Bigfoot XL"
+        },
+        {
+          "filename": "Bigfoot.jpg",
+          "model": "Bigfoot"
+        },
+        {
+          "filename": "Bologna 16″ crna s misem.jpg",
+          "model": "Bologna 16″ crna s misem"
+        },
+        {
+          "filename": "Bologna 16″ crna.jpg",
+          "model": "Bologna 16″ crna"
+        },
+        {
+          "filename": "Bologna 16″ crvena.jpg",
+          "model": "Bologna 16″ crvena"
+        },
+        {
+          "filename": "Bologna 16″ plava.jpg",
+          "model": "Bologna 16″ plava"
+        },
+        {
+          "filename": "Bologna Bag & Charger Bundle.jpg",
+          "model": "Bologna Bag & Charger Bundle"
+        },
+        {
+          "filename": "Bologna Laptop Bag 14”.jpg",
+          "model": "Bologna Laptop Bag 14”"
+        },
+        {
+          "filename": "Bologna Laptop Bag 16”.jpg",
+          "model": "Bologna Laptop Bag 16”"
+        },
+        {
+          "filename": "Boye crna.jpg",
+          "model": "Boye crna"
+        },
+        {
+          "filename": "Boye Mouse Pad.jpg",
+          "model": "Boye Mouse Pad"
+        },
+        {
+          "filename": "Boye Mousepad.jpg",
+          "model": "Boye Mousepad"
+        },
+        {
+          "filename": "Boye plava.jpg",
+          "model": "Boye plava"
+        },
+        {
+          "filename": "BT Keyboard.jpg",
+          "model": "BT Keyboard"
+        },
+        {
+          "filename": "Calyx USB-A To USB-C Adapter 2Pack.jpg",
+          "model": "Calyx USB-A To USB-C Adapter 2Pack"
+        },
+        {
+          "filename": "Calyx USB-C To Hdmi Cable.jpg",
+          "model": "Calyx USB-C To Hdmi Cable"
+        },
+        {
+          "filename": "Calyx USB-C To USB-A Adapter 2Pack.jpg",
+          "model": "Calyx USB-C To USB-A Adapter 2Pack"
+        },
+        {
+          "filename": "Calyx USB-C USB-A.jpg",
+          "model": "Calyx USB-C USB-A"
+        },
+        {
+          "filename": "Carve Wired Mouse.jpg",
+          "model": "Carve Wired Mouse"
+        },
+        {
+          "filename": "Ceto Contactless Smartcard Reader.jpg",
+          "model": "Ceto Contactless Smartcard Reader"
+        },
+        {
+          "filename": "Cyclone.jpg",
+          "model": "Cyclone"
+        },
+        {
+          "filename": "Dalyx 3u1.jpg",
+          "model": "Dalyx 3u1"
+        },
+        {
+          "filename": "Dalyx 5-In-1 Multiport Adapter.jpg",
+          "model": "Dalyx 5-In-1 Multiport Adapter"
+        },
+        {
+          "filename": "Dalyx 6-In-1 Multiport Adapter.jpg",
+          "model": "Dalyx 6-In-1 Multiport Adapter"
+        },
+        {
+          "filename": "Dalyx 6-In-1 USB-C Adapter.jpg",
+          "model": "Dalyx 6-In-1 USB-C Adapter"
+        },
+        {
+          "filename": "Dalyx 7-In-1 Multiport Adapter.jpg",
+          "model": "Dalyx 7-In-1 Multiport Adapter"
+        },
+        {
+          "filename": "Dalyx 7-In-1 USB-C Adapter.jpg",
+          "model": "Dalyx 7-In-1 USB-C Adapter"
+        },
+        {
+          "filename": "Dalyx 8-In-1 Multiport Adapter.jpg",
+          "model": "Dalyx 8-In-1 Multiport Adapter"
+        },
+        {
+          "filename": "Dalyx citac kartica USB-A.jpg",
+          "model": "Dalyx citac kartica USB-A"
+        },
+        {
+          "filename": "Dalyx citac kartica USB-C.jpg",
+          "model": "Dalyx citac kartica USB-C"
+        },
+        {
+          "filename": "Dalyx HDMI.jpg",
+          "model": "Dalyx HDMI"
+        },
+        {
+          "filename": "Exto Laptop Cooling Stand.jpg",
+          "model": "Exto Laptop Cooling Stand"
+        },
+        {
+          "filename": "Ferro Hyperwheel Wireless Mouse.jpg",
+          "model": "Ferro Hyperwheel Wireless Mouse"
+        },
+        {
+          "filename": "Ferro Multi-Wireless Mouse.jpg",
+          "model": "Ferro Multi-Wireless Mouse"
+        },
+        {
+          "filename": "Fiera 10.000 Powerbank Fixed Cable.jpg",
+          "model": "Fiera 10.000 Powerbank Fixed Cable"
+        },
+        {
+          "filename": "Fiera 20.000 Powerbank Fixed Cable.jpg",
+          "model": "Fiera 20.000 Powerbank Fixed Cable"
+        },
+        {
+          "filename": "Fyda Mouse.jpg",
+          "model": "Fyda Mouse"
+        },
+        {
+          "filename": "Fyda Multi-Wireless Wireless Mouse.jpg",
+          "model": "Fyda Multi-Wireless Wireless Mouse"
+        },
+        {
+          "filename": "Fyda Wireless Mouse.jpg",
+          "model": "Fyda Wireless Mouse"
+        },
+        {
+          "filename": "Gemi RGB.jpg",
+          "model": "Gemi RGB"
+        },
+        {
+          "filename": "Halyx 4-Port.jpg",
+          "model": "Halyx 4-Port"
+        },
+        {
+          "filename": "Halyx 7 Port USB Hub.jpg",
+          "model": "Halyx 7 Port USB Hub"
+        },
+        {
+          "filename": "Halyx citac kartica USB-C.jpg",
+          "model": "Halyx citac kartica USB-C"
+        },
+        {
+          "filename": "Halyx USB-A hub.jpg",
+          "model": "Halyx USB-A hub"
+        },
+        {
+          "filename": "Halyx USB-C hub.jpg",
+          "model": "Halyx USB-C hub"
+        },
+        {
+          "filename": "Headset.jpg",
+          "model": "Headset"
+        },
+        {
+          "filename": "Hladnjak plavi.jpg",
+          "model": "Hladnjak plavi"
+        },
+        {
+          "filename": "HS-150 Analogue PC Headset.jpg",
+          "model": "HS-150 Analogue PC Headset"
+        },
+        {
+          "filename": "HS-201 USB PC Headset.jpg",
+          "model": "HS-201 USB PC Headset"
+        },
+        {
+          "filename": "HS-260 USB-ENC PC Headset.jpg",
+          "model": "HS-260 USB-ENC PC Headset"
+        },
+        {
+          "filename": "Jersey Travel Backpack.jpg",
+          "model": "Jersey Travel Backpack"
+        },
+        {
+          "filename": "Kazun.jpg",
+          "model": "Kazun"
+        },
+        {
+          "filename": "Keyra Ergo Multi-Wireless Keyboard.jpg",
+          "model": "Keyra Ergo Multi-Wireless Keyboard"
+        },
+        {
+          "filename": "Kyna Active Stylus Pen.jpg",
+          "model": "Kyna Active Stylus Pen"
+        },
+        {
+          "filename": "Laro 100W Laptop Powerbank.jpg",
+          "model": "Laro 100W Laptop Powerbank"
+        },
+        {
+          "filename": "Leyon Conference.jpg",
+          "model": "Leyon Conference"
+        },
+        {
+          "filename": "Liro Illuminated Soundbar.jpg",
+          "model": "Liro Illuminated Soundbar"
+        },
+        {
+          "filename": "Lisboa 13.3 Laptop sleeve.jpg",
+          "model": "Lisboa 13.3 Laptop sleeve"
+        },
+        {
+          "filename": "Lisboa 16” laptop carry bag.jpg",
+          "model": "Lisboa 16” laptop carry bag"
+        },
+        {
+          "filename": "Lisboa 16” Laptop sleeve.jpg",
+          "model": "Lisboa 16” Laptop sleeve"
+        },
+        {
+          "filename": "Lisboa crni.jpg",
+          "model": "Lisboa crni"
+        },
+        {
+          "filename": "Lisboa plavi.jpg",
+          "model": "Lisboa plavi"
+        },
+        {
+          "filename": "Lisboa zeleni.jpg",
+          "model": "Lisboa zeleni"
+        },
+        {
+          "filename": "Lucca 14” Laptop Sleeve.jpg",
+          "model": "Lucca 14” Laptop Sleeve"
+        },
+        {
+          "filename": "Lucca 16” Laptop Sleeve.jpg",
+          "model": "Lucca 16” Laptop Sleeve"
+        },
+        {
+          "filename": "Lynor Keyboard Folio.jpg",
+          "model": "Lynor Keyboard Folio"
+        },
+        {
+          "filename": "Lyra Compact Wireless Keyboard.jpg",
+          "model": "Lyra Compact Wireless Keyboard"
+        },
+        {
+          "filename": "Lyra Wireless Keyboard & Mouse.jpg",
+          "model": "Lyra Wireless Keyboard & Mouse"
+        },
+        {
+          "filename": "M podloga crna.jpg",
+          "model": "M podloga crna"
+        },
+        {
+          "filename": "Macy Foldable Alu Laptop Stand.jpg",
+          "model": "Macy Foldable Alu Laptop Stand"
+        },
+        {
+          "filename": "Mara Monitor And Laptop Arm.jpg",
+          "model": "Mara Monitor And Laptop Arm"
+        },
+        {
+          "filename": "Maxo 100W 2P USB-C GaN Charger.jpg",
+          "model": "Maxo 100W 2P USB-C GaN Charger"
+        },
+        {
+          "filename": "Maxo 100W 4-Port Desktop Charger.jpg",
+          "model": "Maxo 100W 4-Port Desktop Charger"
+        },
+        {
+          "filename": "Maxo 100W USB-C Charger UK.jpg",
+          "model": "Maxo 100W USB-C Charger UK"
+        },
+        {
+          "filename": "Maxo 100W USB-C Charger.jpg",
+          "model": "Maxo 100W USB-C Charger"
+        },
+        {
+          "filename": "Maxo 20W USB-C Charger.jpg",
+          "model": "Maxo 20W USB-C Charger"
+        },
+        {
+          "filename": "Maxo 240W 4-Port USB-C Desk Charger.jpg",
+          "model": "Maxo 240W 4-Port USB-C Desk Charger"
+        },
+        {
+          "filename": "Maxo 30W USB-C GaN Charger.jpg",
+          "model": "Maxo 30W USB-C GaN Charger"
+        },
+        {
+          "filename": "Maxo 38W Car Charger.jpg",
+          "model": "Maxo 38W Car Charger"
+        },
+        {
+          "filename": "Maxo 45W USB-C Charger Apple.jpg",
+          "model": "Maxo 45W USB-C Charger Apple"
+        },
+        {
+          "filename": "Maxo 45W USB-C Charger Samsung.jpg",
+          "model": "Maxo 45W USB-C Charger Samsung"
+        },
+        {
+          "filename": "Maxo 45W USB-C charger.jpg",
+          "model": "Maxo 45W USB-C charger"
+        },
+        {
+          "filename": "Maxo 45W USB-C GaN Charger.jpg",
+          "model": "Maxo 45W USB-C GaN Charger"
+        },
+        {
+          "filename": "Maxo 65W 2-Port USB-C GaN Charger.jpg",
+          "model": "Maxo 65W 2-Port USB-C GaN Charger"
+        },
+        {
+          "filename": "Maxo 65W 2P USB-C Charger UK.jpg",
+          "model": "Maxo 65W 2P USB-C Charger UK"
+        },
+        {
+          "filename": "Maxo 65W 2P USB-C GaN Charger.jpg",
+          "model": "Maxo 65W 2P USB-C GaN Charger"
+        },
+        {
+          "filename": "Maxo 65W 4-Port GaN USB Charger.jpg",
+          "model": "Maxo 65W 4-Port GaN USB Charger"
+        },
+        {
+          "filename": "Maxo 65W 4P GaN Charger.jpg",
+          "model": "Maxo 65W 4P GaN Charger"
+        },
+        {
+          "filename": "Maxo 65W Retractable USB-C PD Charger.jpg",
+          "model": "Maxo 65W Retractable USB-C PD Charger"
+        },
+        {
+          "filename": "Maxo 65W Small USB-C Charger.jpg",
+          "model": "Maxo 65W Small USB-C Charger"
+        },
+        {
+          "filename": "Maxo 65W USB-C GaN Charger.jpg",
+          "model": "Maxo 65W USB-C GaN Charger"
+        },
+        {
+          "filename": "Maxo Acer 90W Laptop Charger.jpg",
+          "model": "Maxo Acer 90W Laptop Charger"
+        },
+        {
+          "filename": "Maxo Asus 90W Laptop Charger.jpg",
+          "model": "Maxo Asus 90W Laptop Charger"
+        },
+        {
+          "filename": "Maxo HP 90W Laptop Charger.jpg",
+          "model": "Maxo HP 90W Laptop Charger"
+        },
+        {
+          "filename": "Maxo Lenovo 90W Laptop Charger.jpg",
+          "model": "Maxo Lenovo 90W Laptop Charger"
+        },
+        {
+          "filename": "Mila 2.0 Speaker set.jpg",
+          "model": "Mila 2.0 Speaker set"
+        },
+        {
+          "filename": "Milo 2.0 Speaker Set.jpg",
+          "model": "Milo 2.0 Speaker Set"
+        },
+        {
+          "filename": "Monta Glass Monitor Stand.jpg",
+          "model": "Monta Glass Monitor Stand"
+        },
+        {
+          "filename": "Mousepad M.jpg",
+          "model": "Mousepad M"
+        },
+        {
+          "filename": "Mousepad XXL.jpg",
+          "model": "Mousepad XXL"
+        },
+        {
+          "filename": "Mydo crni.jpg",
+          "model": "Mydo crni"
+        },
+        {
+          "filename": "Mydo plavi.jpg",
+          "model": "Mydo plavi"
+        },
+        {
+          "filename": "Mydo Silent Wireless Mouse.jpg",
+          "model": "Mydo Silent Wireless Mouse"
+        },
+        {
+          "filename": "Myna Bluetooth 5.3 Adapter.jpg",
+          "model": "Myna Bluetooth 5.3 Adapter"
+        },
+        {
+          "filename": "Myna Bluetooth 5.4 Adapter.jpg",
+          "model": "Myna Bluetooth 5.4 Adapter"
+        },
+        {
+          "filename": "Nado Multi-Wireless.jpg",
+          "model": "Nado Multi-Wireless"
+        },
+        {
+          "filename": "Nanga USB3.1 Cardreader.jpg",
+          "model": "Nanga USB3.1 Cardreader"
+        },
+        {
+          "filename": "Nira Keyboard.jpg",
+          "model": "Nira Keyboard"
+        },
+        {
+          "filename": "Nito Silent Wireless Mouse.jpg",
+          "model": "Nito Silent Wireless Mouse"
+        },
+        {
+          "filename": "Nito Wireless Mouse.jpg",
+          "model": "Nito Wireless Mouse"
+        },
+        {
+          "filename": "Niven Comfort Multi-Wireless Mouse.jpg",
+          "model": "Niven Comfort Multi-Wireless Mouse"
+        },
+        {
+          "filename": "Nouna Kids Headphones.jpg",
+          "model": "Nouna Kids Headphones"
+        },
+        {
+          "filename": "Nouna Wireless Headphones Paw Patrol Blue.jpg",
+          "model": "Nouna Wireless Headphones Paw Patrol Blue"
+        },
+        {
+          "filename": "Nouna Wireless Kids Headphones.jpg",
+          "model": "Nouna Wireless Kids Headphones"
+        },
+        {
+          "filename": "Ody II Wireless Keyboard & Mouse Set.jpg",
+          "model": "Ody II Wireless Keyboard & Mouse Set"
+        },
+        {
+          "filename": "Ody II Wireless Keyboard & Mouse.jpg",
+          "model": "Ody II Wireless Keyboard & Mouse"
+        },
+        {
+          "filename": "Ody II Wireless Keyboard.jpg",
+          "model": "Ody II Wireless Keyboard"
+        },
+        {
+          "filename": "Ody II.jpg",
+          "model": "Ody II"
+        },
+        {
+          "filename": "Orada 2.0 Speaker Set.jpg",
+          "model": "Orada 2.0 Speaker Set"
+        },
+        {
+          "filename": "Oran Full HD Webcam.jpg",
+          "model": "Oran Full HD Webcam"
+        },
+        {
+          "filename": "Orva 65W Small USB-C Charger.jpg",
+          "model": "Orva 65W Small USB-C Charger"
+        },
+        {
+          "filename": "Ovala 2K HD Webcam.jpg",
+          "model": "Ovala 2K HD Webcam"
+        },
+        {
+          "filename": "Ovala 2K QHD Webcam.jpg",
+          "model": "Ovala 2K QHD Webcam"
+        },
+        {
+          "filename": "Ozaa Compact bijeli.jpg",
+          "model": "Ozaa Compact bijeli"
+        },
+        {
+          "filename": "Ozaa Compact crni.jpg",
+          "model": "Ozaa Compact crni"
+        },
+        {
+          "filename": "Ozaa+ bijeli.jpg",
+          "model": "Ozaa+ bijeli"
+        },
+        {
+          "filename": "Ozaa+ crni.jpg",
+          "model": "Ozaa+ crni"
+        },
+        {
+          "filename": "Pacto 5000 PD Pocket Powerbank.jpg",
+          "model": "Pacto 5000 PD Pocket Powerbank"
+        },
+        {
+          "filename": "Polo.jpg",
+          "model": "Polo"
+        },
+        {
+          "filename": "Primo 45W.jpg",
+          "model": "Primo 45W"
+        },
+        {
+          "filename": "Primo 90W.jpg",
+          "model": "Primo 90W"
+        },
+        {
+          "filename": "Primo bijeli.jpg",
+          "model": "Primo bijeli"
+        },
+        {
+          "filename": "Primo Bluetooth Wireless Mouse.jpg",
+          "model": "Primo Bluetooth Wireless Mouse"
+        },
+        {
+          "filename": "Primo Carry Bag 16”.jpg",
+          "model": "Primo Carry Bag 16”"
+        },
+        {
+          "filename": "Primo crni.jpg",
+          "model": "Primo crni"
+        },
+        {
+          "filename": "Primo citac kartica USB-C 26061.jpg",
+          "model": "Primo citac kartica USB-C 26061"
+        },
+        {
+          "filename": "Primo citac kartica USB-C 26253.jpg",
+          "model": "Primo citac kartica USB-C 26253"
+        },
+        {
+          "filename": "Primo citac kartica USB.jpg",
+          "model": "Primo citac kartica USB"
+        },
+        {
+          "filename": "Primo Foldable Laptop Stand.jpg",
+          "model": "Primo Foldable Laptop Stand"
+        },
+        {
+          "filename": "Primo Folio 10”.jpg",
+          "model": "Primo Folio 10”"
+        },
+        {
+          "filename": "Primo Illuminated Keyboard.jpg",
+          "model": "Primo Illuminated Keyboard"
+        },
+        {
+          "filename": "Primo Keyboard And Mouse Set.jpg",
+          "model": "Primo Keyboard And Mouse Set"
+        },
+        {
+          "filename": "Primo Keyboard.jpg",
+          "model": "Primo Keyboard"
+        },
+        {
+          "filename": "Primo Laptop Charger 19V-70W.jpg",
+          "model": "Primo Laptop Charger 19V-70W"
+        },
+        {
+          "filename": "Primo Microphone.jpg",
+          "model": "Primo Microphone"
+        },
+        {
+          "filename": "Primo plavi.jpg",
+          "model": "Primo plavi"
+        },
+        {
+          "filename": "Primo Privacy Filter 14 Inch.jpg",
+          "model": "Primo Privacy Filter 14 Inch"
+        },
+        {
+          "filename": "Primo Privacy Filter 15.6 Inch.jpg",
+          "model": "Primo Privacy Filter 15.6 Inch"
+        },
+        {
+          "filename": "Primo set.jpg",
+          "model": "Primo set"
+        },
+        {
+          "filename": "Primo Sleeve 11.6”.jpg",
+          "model": "Primo Sleeve 11.6”"
+        },
+        {
+          "filename": "Primo Sleeve 13.3”.jpg",
+          "model": "Primo Sleeve 13.3”"
+        },
+        {
+          "filename": "Primo Sleeve 15.6”.jpg",
+          "model": "Primo Sleeve 15.6”"
+        },
+        {
+          "filename": "Primo slusalice.jpg",
+          "model": "Primo slusalice"
+        },
+        {
+          "filename": "Primo tipkovnica.jpg",
+          "model": "Primo tipkovnica"
+        },
+        {
+          "filename": "Primo Wireless Deskset.jpg",
+          "model": "Primo Wireless Deskset"
+        },
+        {
+          "filename": "Puck crni.jpg",
+          "model": "Puck crni"
+        },
+        {
+          "filename": "Puck rozi.jpg",
+          "model": "Puck rozi"
+        },
+        {
+          "filename": "Remo.jpg",
+          "model": "Remo"
+        },
+        {
+          "filename": "Roha II Max USB Headset.jpg",
+          "model": "Roha II Max USB Headset"
+        },
+        {
+          "filename": "Roha II PC Headset.jpg",
+          "model": "Roha II PC Headset"
+        },
+        {
+          "filename": "Roha II USB PC Headset.jpg",
+          "model": "Roha II USB PC Headset"
+        },
+        {
+          "filename": "Roha II USB-ENC PC Headset.jpg",
+          "model": "Roha II USB-ENC PC Headset"
+        },
+        {
+          "filename": "Roha II Wireless ENC PC Headset.jpg",
+          "model": "Roha II Wireless ENC PC Headset"
+        },
+        {
+          "filename": "Runo Air.jpg",
+          "model": "Runo Air"
+        },
+        {
+          "filename": "Runo.jpg",
+          "model": "Runo"
+        },
+        {
+          "filename": "Seron bijeli.jpg",
+          "model": "Seron bijeli"
+        },
+        {
+          "filename": "Seron crni.jpg",
+          "model": "Seron crni"
+        },
+        {
+          "filename": "Seron Hypscroll Slim Wireless Mouse.jpg",
+          "model": "Seron Hypscroll Slim Wireless Mouse"
+        },
+        {
+          "filename": "Shyne Monitor Light Bar.jpg",
+          "model": "Shyne Monitor Light Bar"
+        },
+        {
+          "filename": "Stylus.jpg",
+          "model": "Stylus"
+        },
+        {
+          "filename": "Sura Comfortable Wireless Mouse.jpg",
+          "model": "Sura Comfortable Wireless Mouse"
+        },
+        {
+          "filename": "Surge 6.jpg",
+          "model": "Surge 6"
+        },
+        {
+          "filename": "Tanor crna.jpg",
+          "model": "Tanor crna"
+        },
+        {
+          "filename": "Taxon HD Webcam.jpg",
+          "model": "Taxon HD Webcam"
+        },
+        {
+          "filename": "Teza 4K UHD Webcam.jpg",
+          "model": "Teza 4K UHD Webcam"
+        },
+        {
+          "filename": "Tiron Laptop Security Cable.jpg",
+          "model": "Tiron Laptop Security Cable"
+        },
+        {
+          "filename": "Tk-150 Keyboard.jpg",
+          "model": "Tk-150 Keyboard"
+        },
+        {
+          "filename": "TKM-250 Keyboard and mouse set.jpg",
+          "model": "TKM-250 Keyboard and mouse set"
+        },
+        {
+          "filename": "TKM-360 Wireless Keyboard & Mouse.jpg",
+          "model": "TKM-360 Wireless Keyboard & Mouse"
+        },
+        {
+          "filename": "TM-101 Mouse.jpg",
+          "model": "TM-101 Mouse"
+        },
+        {
+          "filename": "TM-101W Mouse.jpg",
+          "model": "TM-101W Mouse"
+        },
+        {
+          "filename": "TM-201 Wireless Mouse.jpg",
+          "model": "TM-201 Wireless Mouse"
+        },
+        {
+          "filename": "TM-270 Ergonomic Wireless Mouse.jpg",
+          "model": "TM-270 Ergonomic Wireless Mouse"
+        },
+        {
+          "filename": "Tobu Tablet Holder Paw Patrol Blue.jpg",
+          "model": "Tobu Tablet Holder Paw Patrol Blue"
+        },
+        {
+          "filename": "Tobu Tablet Holder Paw Patrol.jpg",
+          "model": "Tobu Tablet Holder Paw Patrol"
+        },
+        {
+          "filename": "Tomar 2K HD Webcam.jpg",
+          "model": "Tomar 2K HD Webcam"
+        },
+        {
+          "filename": "Tomar 2K QHD Webcam.jpg",
+          "model": "Tomar 2K QHD Webcam"
+        },
+        {
+          "filename": "Torin Ergonomic Vertical Mouse.jpg",
+          "model": "Torin Ergonomic Vertical Mouse"
+        },
+        {
+          "filename": "Torin Ergonomic Vertical Wireless Mouse Left-Handed.jpg",
+          "model": "Torin Ergonomic Vertical Wireless Mouse Left-Handed"
+        },
+        {
+          "filename": "Torin Ergonomic Vertical Wireless Mouse.jpg",
+          "model": "Torin Ergonomic Vertical Wireless Mouse"
+        },
+        {
+          "filename": "Treva Hyperscroll Wireless Mouse.jpg",
+          "model": "Treva Hyperscroll Wireless Mouse"
+        },
+        {
+          "filename": "Trezo.jpg",
+          "model": "Trezo"
+        },
+        {
+          "filename": "Tw-200 Full HD Webcam.jpg",
+          "model": "Tw-200 Full HD Webcam"
+        },
+        {
+          "filename": "Tw-250 HD Webcam.jpg",
+          "model": "Tw-250 HD Webcam"
+        },
+        {
+          "filename": "Tytan 2.0 Speaker.jpg",
+          "model": "Tytan 2.0 Speaker"
+        },
+        {
+          "filename": "Tytan 2.1 Speaker UK.jpg",
+          "model": "Tytan 2.1 Speaker UK"
+        },
+        {
+          "filename": "Tytan 2.1 Speaker.jpg",
+          "model": "Tytan 2.1 Speaker"
+        },
+        {
+          "filename": "USB-C 65W.jpg",
+          "model": "USB-C 65W"
+        },
+        {
+          "filename": "USB-C HDMI kabel.jpg",
+          "model": "USB-C HDMI kabel"
+        },
+        {
+          "filename": "USB-C M.2 Ssd Enclosure.jpg",
+          "model": "USB-C M.2 Ssd Enclosure"
+        },
+        {
+          "filename": "Vaiya Multi-Wireless Wireless Keyboard.jpg",
+          "model": "Vaiya Multi-Wireless Wireless Keyboard"
+        },
+        {
+          "filename": "Vela Keyboard Wrist Rest.jpg",
+          "model": "Vela Keyboard Wrist Rest"
+        },
+        {
+          "filename": "Velora USB-C Smartcard Reader.jpg",
+          "model": "Velora USB-C Smartcard Reader"
+        },
+        {
+          "filename": "Venna Multi-Wireless Keyboard & Mouse Set.jpg",
+          "model": "Venna Multi-Wireless Keyboard & Mouse Set"
+        },
+        {
+          "filename": "Verro Wireless Ergo Mouse.jpg",
+          "model": "Verro Wireless Ergo Mouse"
+        },
+        {
+          "filename": "Vertical Ergonomic Mouse.jpg",
+          "model": "Vertical Ergonomic Mouse"
+        },
+        {
+          "filename": "Vertical Wireless Ergonomic Mouse.jpg",
+          "model": "Vertical Wireless Ergonomic Mouse"
+        },
+        {
+          "filename": "Verto Ergo Mouse.jpg",
+          "model": "Verto Ergo Mouse"
+        },
+        {
+          "filename": "Verto Ergonomic Vertical Mouse (2).jpg",
+          "model": "Verto Ergonomic Vertical Mouse (2)"
+        },
+        {
+          "filename": "Verto Ergonomic Vertical Mouse.jpg",
+          "model": "Verto Ergonomic Vertical Mouse"
+        },
+        {
+          "filename": "Verto Ergonomic Vertical Wireless Mouse (2).jpg",
+          "model": "Verto Ergonomic Vertical Wireless Mouse (2)"
+        },
+        {
+          "filename": "Verto Ergonomic Vertical Wireless Mouse.jpg",
+          "model": "Verto Ergonomic Vertical Wireless Mouse"
+        },
+        {
+          "filename": "Verto Wireless Ergo Mouse.jpg",
+          "model": "Verto Wireless Ergo Mouse"
+        },
+        {
+          "filename": "Vira Multi-wireless Keyboard.jpg",
+          "model": "Vira Multi-wireless Keyboard"
+        },
+        {
+          "filename": "Viro 3-In-1 Magnetic Charge Stand.jpg",
+          "model": "Viro 3-In-1 Magnetic Charge Stand"
+        },
+        {
+          "filename": "Voca Comfortable Mouse.jpg",
+          "model": "Voca Comfortable Mouse"
+        },
+        {
+          "filename": "Voxx Ergonomic Rechargeable Mouse.jpg",
+          "model": "Voxx Ergonomic Rechargeable Mouse"
+        },
+        {
+          "filename": "Vylor 8-In-1 Multiport Adapter.jpg",
+          "model": "Vylor 8-In-1 Multiport Adapter"
+        },
+        {
+          "filename": "Vymo Backpack Paw Patrol Blue.jpg",
+          "model": "Vymo Backpack Paw Patrol Blue"
+        },
+        {
+          "filename": "Vymo Backpack Paw Patrol.jpg",
+          "model": "Vymo Backpack Paw Patrol"
+        },
+        {
+          "filename": "Vyran Ergo Hyperscroll Multi-Wireless Mouse.jpg",
+          "model": "Vyran Ergo Hyperscroll Multi-Wireless Mouse"
+        },
+        {
+          "filename": "Wireless Mouse.jpg",
+          "model": "Wireless Mouse"
+        },
+        {
+          "filename": "Xalas USB Numpad.jpg",
+          "model": "Xalas USB Numpad"
+        },
+        {
+          "filename": "Xalas Wireless Numpad.jpg",
+          "model": "Xalas Wireless Numpad"
+        },
+        {
+          "filename": "Xstream Breeze Cooling Stand.jpg",
+          "model": "Xstream Breeze Cooling Stand"
+        },
+        {
+          "filename": "Yavi Bluetooth® ENC Earphones White.jpg",
+          "model": "Yavi Bluetooth® ENC Earphones White"
+        },
+        {
+          "filename": "Yavi Bluetooth® ENC Earphones.jpg",
+          "model": "Yavi Bluetooth® ENC Earphones"
+        },
+        {
+          "filename": "Yeddi Mousepad.jpg",
+          "model": "Yeddi Mousepad"
+        },
+        {
+          "filename": "Yuki Multi-Wireless Wireless Mouse.jpg",
+          "model": "Yuki Multi-Wireless Wireless Mouse"
+        },
+        {
+          "filename": "Yuki Wireless Mouse.jpg",
+          "model": "Yuki Wireless Mouse"
+        },
+        {
+          "filename": "Yuno Ergonomic Mouse.jpg",
+          "model": "Yuno Ergonomic Mouse"
+        },
+        {
+          "filename": "Yuno Ergonomic Wireless Mouse.jpg",
+          "model": "Yuno Ergonomic Wireless Mouse"
+        },
+        {
+          "filename": "Yuri 2.1 Speaker Set.jpg",
+          "model": "Yuri 2.1 Speaker Set"
+        },
+        {
+          "filename": "Yvi+ crni.jpg",
+          "model": "Yvi+ crni"
+        },
+        {
+          "filename": "Yvi+ crveni.jpg",
+          "model": "Yvi+ crveni"
+        },
+        {
+          "filename": "Yvi+ Multi-Wireless Mouse (2).jpg",
+          "model": "Yvi+ Multi-Wireless Mouse (2)"
+        },
+        {
+          "filename": "Yvi+ Multi-Wireless Mouse.jpg",
+          "model": "Yvi+ Multi-Wireless Mouse"
+        },
+        {
+          "filename": "Yvi+ Multi-Wireless Wireless Mouse (2).jpg",
+          "model": "Yvi+ Multi-Wireless Wireless Mouse (2)"
+        },
+        {
+          "filename": "Yvi+ Multi-Wireless Wireless Mouse.jpg",
+          "model": "Yvi+ Multi-Wireless Wireless Mouse"
+        },
+        {
+          "filename": "Yvi+ plavi.jpg",
+          "model": "Yvi+ plavi"
+        },
+        {
+          "filename": "Yvi+ Wireless Mouse.jpg",
+          "model": "Yvi+ Wireless Mouse"
+        },
+        {
+          "filename": "Zaya crni.jpg",
+          "model": "Zaya crni"
+        },
+        {
+          "filename": "Zaya Wireless Rechargeable mouse.jpg",
+          "model": "Zaya Wireless Rechargeable mouse"
+        },
+        {
+          "filename": "Zeff Metal Laptop Stand.jpg",
+          "model": "Zeff Metal Laptop Stand"
+        },
+        {
+          "filename": "Zevo crni.jpg",
+          "model": "Zevo crni"
+        },
+        {
+          "filename": "Zuny 20W Solar Panel.jpg",
+          "model": "Zuny 20W Solar Panel"
+        },
+        {
+          "filename": "Zuny 40W Solar Panel.jpg",
+          "model": "Zuny 40W Solar Panel"
+        },
+        {
+          "filename": "Zylo Pocket Wireless Mouse.jpg",
+          "model": "Zylo Pocket Wireless Mouse"
         }
       ]
     }

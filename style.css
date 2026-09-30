@@ -47,6 +47,36 @@ table {
   overflow: hidden;
 }
 
+#pagination {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+#pagination button {
+  padding: 7px 12px;
+  font-size: 14px;
+}
+
+#pagination button.current-page {
+  background-color: #004f88;
+  cursor: default;
+}
+
+#pagination button:disabled {
+  background-color: #a7b2ba;
+  cursor: not-allowed;
+}
+
+.pagination-info {
+  margin-left: 8px;
+  color: #444;
+  font-weight: bold;
+}
+
 th,
 td {
   padding: 10px 12px;
@@ -203,6 +233,10 @@ button:hover {
   }
 
   table {
+    width: 100%;
+  }
+
+  #pagination {
     width: 100%;
   }
 

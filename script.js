@@ -2,17 +2,16 @@ let imageFiles = [];
 
 const selectedImages = new Map();
 const quantities = new Map();
+const ITEMS_PER_PAGE = 50;
+let currentPage = 1;
 
-// ============================================================
-// POSTAVKE ISPISA — mijenjaj ove vrijednosti po potrebi (u mm)
-// A4 landscape ostaje uvijek 297 × 210 mm.
-// ============================================================
 
+// POSTAVKE ISPISA
 const PRINT_SETTINGS = Object.freeze({
-    labelWidthMm: 90,
-    labelHeightMm: 90,
+    labelWidthMm: 97,
+    labelHeightMm: 102,
     columnGapMm: 0,
-    rowGapMm: 2
+    rowGapMm: 0
 });
 
 const A4_LANDSCAPE = Object.freeze({
@@ -48,6 +47,7 @@ const brandFilter = document.getElementById("brandFilter");
 const printBtn = document.getElementById("printBtn");
 const totalModelCount = document.getElementById("totalModelCount");
 const printInfo = document.getElementById("printInfo");
+const pagination = document.getElementById("pagination");
 
 
 // ============================================================
@@ -107,8 +107,7 @@ function updatePrintInfo() {
     printInfo.innerHTML = `
         Papir A4, ${layout.labelsPerPage} naljepnica po stranici
         (${layout.columns} × ${layout.rows})<br>
-        Veličina naljepnice: ${PRINT_SETTINGS.labelWidthMm / 10} cm ×
-        ${PRINT_SETTINGS.labelHeightMm / 10} cm<br>
+        Veličina naljepnice: 9,5 x 10 cm<br>
     `;
 }
 
@@ -176,8 +175,20 @@ function renderTable() {
     tbody.innerHTML = "";
 
     const filteredImages = getFilteredImages();
+    const totalPages = Math.max(
+        1,
+        Math.ceil(filteredImages.length / ITEMS_PER_PAGE)
+    );
 
-    filteredImages.forEach(item => {
+    currentPage = Math.min(currentPage, totalPages);
+
+    const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+    const visibleImages = filteredImages.slice(
+        startIndex,
+        startIndex + ITEMS_PER_PAGE
+    );
+
+    visibleImages.forEach(item => {
 
         const tr = document.createElement("tr");
 
@@ -309,6 +320,68 @@ function renderTable() {
     });
 
     updateCounter();
+    renderPagination(filteredImages.length, totalPages);
+}
+
+
+function renderPagination(totalItems, totalPages) {
+    pagination.innerHTML = "";
+
+    if (totalItems === 0) {
+        pagination.textContent = "Nema pronađenih artikala.";
+        return;
+    }
+
+    const addButton = (label, page, options = {}) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.textContent = label;
+        button.disabled = options.disabled || false;
+        button.className = options.current ? "current-page" : "";
+        button.setAttribute("aria-label", options.ariaLabel || label);
+
+        button.addEventListener("click", () => {
+            currentPage = page;
+            renderTable();
+        });
+
+        pagination.appendChild(button);
+    };
+
+    addButton("« Prva", 1, {
+        disabled: currentPage === 1,
+        ariaLabel: "Prva stranica"
+    });
+    addButton("‹ Prethodna", currentPage - 1, {
+        disabled: currentPage === 1,
+        ariaLabel: "Prethodna stranica"
+    });
+
+    const firstPage = Math.max(1, currentPage - 2);
+    const lastPage = Math.min(totalPages, currentPage + 2);
+
+    for (let page = firstPage; page <= lastPage; page++) {
+        addButton(String(page), page, {
+            current: page === currentPage,
+            ariaLabel: `Stranica ${page}`
+        });
+    }
+
+    addButton("Sljedeća ›", currentPage + 1, {
+        disabled: currentPage === totalPages,
+        ariaLabel: "Sljedeća stranica"
+    });
+    addButton("Zadnja »", totalPages, {
+        disabled: currentPage === totalPages,
+        ariaLabel: "Zadnja stranica"
+    });
+
+    const info = document.createElement("span");
+    const firstItem = (currentPage - 1) * ITEMS_PER_PAGE + 1;
+    const lastItem = Math.min(currentPage * ITEMS_PER_PAGE, totalItems);
+    info.className = "pagination-info";
+    info.textContent = `Prikazano ${firstItem}–${lastItem} od ${totalItems}`;
+    pagination.appendChild(info);
 }
 
 
@@ -333,8 +406,13 @@ function updateCounter() {
 // SEARCH / FILTER EVENTS
 // ============================================================
 
-searchInput.addEventListener("input", renderTable);
-brandFilter.addEventListener("change", renderTable);
+function resetPageAndRender() {
+    currentPage = 1;
+    renderTable();
+}
+
+searchInput.addEventListener("input", resetPageAndRender);
+brandFilter.addEventListener("change", resetPageAndRender);
 
 
 // ============================================================

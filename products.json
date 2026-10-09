@@ -6571,6 +6571,24 @@
       ]
     },
     {
+      "name": "MANHATTAN",
+      "folder": "Manhattan",
+      "products": [
+        {
+          "filename": "Citac Smart Kartica 102025.png",
+          "model": "Citac Smart Kartica 102025"
+        },
+        {
+          "filename": "Citac Smart Kartica 102049.png",
+          "model": "Citac Smart Kartica 102049"
+        },
+        {
+          "filename": "Termalna pasta 1,5G 701662.png",
+          "model": "Termalna pasta 1,5G 701662"
+        }
+      ]
+    },
+    {
       "name": "WHITE SHARK",
       "folder": "WHITE SHARK",
       "products": [

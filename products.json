@@ -439,6 +439,140 @@
       ]
     },
     {
+      "name": "BABYLISS",
+      "folder": "BABYLISS",
+      "products": [
+        {
+          "filename": "2523PE.png",
+          "model": "2523PE"
+        },
+        {
+          "filename": "2598NPE.png",
+          "model": "2598NPE"
+        },
+        {
+          "filename": "2664PRE.png",
+          "model": "2664PRE"
+        },
+        {
+          "filename": "6613E.png",
+          "model": "6613E"
+        },
+        {
+          "filename": "6713DE.png",
+          "model": "6713DE"
+        },
+        {
+          "filename": "7255PE.png",
+          "model": "7255PE"
+        },
+        {
+          "filename": "AS136E.png",
+          "model": "AS136E"
+        },
+        {
+          "filename": "AS774E.png",
+          "model": "AS774E"
+        },
+        {
+          "filename": "AS812PE.png",
+          "model": "AS812PE"
+        },
+        {
+          "filename": "AS950E.png",
+          "model": "AS950E"
+        },
+        {
+          "filename": "AS952E.png",
+          "model": "AS952E"
+        },
+        {
+          "filename": "AS960E.png",
+          "model": "AS960E"
+        },
+        {
+          "filename": "AS970E.png",
+          "model": "AS970E"
+        },
+        {
+          "filename": "BG120E.png",
+          "model": "BG120E"
+        },
+        {
+          "filename": "C112E.png",
+          "model": "C112E"
+        },
+        {
+          "filename": "C115E.png",
+          "model": "C115E"
+        },
+        {
+          "filename": "C457E.png",
+          "model": "C457E"
+        },
+        {
+          "filename": "D374DE.png",
+          "model": "D374DE"
+        },
+        {
+          "filename": "D6490DE.png",
+          "model": "D6490DE"
+        },
+        {
+          "filename": "E837E.png",
+          "model": "E837E"
+        },
+        {
+          "filename": "E990E.png",
+          "model": "E990E"
+        },
+        {
+          "filename": "HSB101E.png",
+          "model": "HSB101E"
+        },
+        {
+          "filename": "MT728E.png",
+          "model": "MT728E"
+        },
+        {
+          "filename": "ST240E.png",
+          "model": "ST240E"
+        },
+        {
+          "filename": "ST255E.png",
+          "model": "ST255E"
+        },
+        {
+          "filename": "ST395E.png",
+          "model": "ST395E"
+        },
+        {
+          "filename": "ST481E.png",
+          "model": "ST481E"
+        },
+        {
+          "filename": "ST485E.png",
+          "model": "ST485E"
+        },
+        {
+          "filename": "ST90PE.png",
+          "model": "ST90PE"
+        },
+        {
+          "filename": "T831E.png",
+          "model": "T831E"
+        },
+        {
+          "filename": "T881E.png",
+          "model": "T881E"
+        },
+        {
+          "filename": "T885E.png",
+          "model": "T885E"
+        }
+      ]
+    },
+    {
       "name": "eShark",
       "folder": "eShark",
       "products": [
@@ -6569,6 +6703,766 @@
           "model": "CDR-1016SHP"
         }
       ]
+    },
+    {
+      "name": "MANHATTAN",
+      "folder": "Manhattan",
+      "products": [
+        {
+          "filename": "Citac Smart Kartica 102025.png",
+          "model": "Citac Smart Kartica 102025"
+        },
+        {
+          "filename": "Citac Smart Kartica 102049.png",
+          "model": "Citac Smart Kartica 102049"
+        },
+        {
+          "filename": "Set Tipkovnica i Mis 178990.png",
+          "model": "Set Tipkovnica i Mis 178990"
+        },
+        {
+          "filename": "Mis Curve 179386.png",
+          "model": "Mis Curve 179386"
+        },
+        {
+          "filename": "Termalna pasta 1,5G 701662.png",
+          "model": "Termalna pasta 1,5G 701662"
+        }
+      ]
+    },
+    {
+      "name": "REMINGTON",
+      "folder": "REMINGTON",
+        "products": [
+        {
+          "filename": "AC5860 EU DR 9330241.png",
+          "model": "AC5860 EU DR 9330241"
+        },
+        {
+          "filename": "AC5912 EU DR 9330245.png",
+          "model": "AC5912 EU DR 9330245"
+        },
+        {
+          "filename": "AC5999 EU DR 9330242.png",
+          "model": "AC5999 EU DR 9330242"
+        },
+        {
+          "filename": "AC7100 EU DR 9330238.png",
+          "model": "AC7100 EU DR 9330238"
+        },
+        {
+          "filename": "AC7200 EU DR 9330216.png",
+          "model": "AC7200 EU DR 9330216"
+        },
+        {
+          "filename": "AC7200W EU DR 9330209.png",
+          "model": "AC7200W EU DR 9330209"
+        },
+        {
+          "filename": "AC8002 EU DR 9330240.png",
+          "model": "AC8002 EU DR 9330240"
+        },
+        {
+          "filename": "AC8605 EU DR 9330234.png",
+          "model": "AC8605 EU DR 9330234"
+        },
+        {
+          "filename": "AC8820 EU DR 9330235.png",
+          "model": "AC8820 EU DR 9330235"
+        },
+        {
+          "filename": "AC8901 EU DR 9330213.png",
+          "model": "AC8901 EU DR 9330213"
+        },
+        {
+          "filename": "AC9095 EU DR 9330231.png",
+          "model": "AC9095 EU DR 9330231"
+        },
+        {
+          "filename": "AC9096 EU DR 9330215.png",
+          "model": "AC9096 EU DR 9330215"
+        },
+        {
+          "filename": "AC9140 EU DR 9330207.png",
+          "model": "AC9140 EU DR 9330207"
+        },
+        {
+          "filename": "AC9140B EU DR 9330201.png",
+          "model": "AC9140B EU DR 9330201"
+        },
+        {
+          "filename": "AC9300 EU DR 9330200.png",
+          "model": "AC9300 EU DR 9330200"
+        },
+        {
+          "filename": "AC9350 EU DR 9330187.png",
+          "model": "AC9350 EU DR 9330187"
+        },
+        {
+          "filename": "AC9800 EU DR 9330195.png",
+          "model": "AC9800 EU DR 9330195"
+        },
+        {
+          "filename": "AS5805 EU AS 9330052.png",
+          "model": "AS5805 EU AS 9330052"
+        },
+        {
+          "filename": "AS5860 EU AS 9330055.png",
+          "model": "AS5860 EU AS 9330055"
+        },
+        {
+          "filename": "AS5901 EU AS 9330063.png",
+          "model": "AS5901 EU AS 9330063"
+        },
+        {
+          "filename": "AS6077 EU AS 9330060.png",
+          "model": "AS6077 EU AS 9330060"
+        },
+        {
+          "filename": "AS7500 EU AS 9330057.png",
+          "model": "AS7500 EU AS 9330057"
+        },
+        {
+          "filename": "AS7580 EU AS 9330058.png",
+          "model": "AS7580 EU AS 9330058"
+        },
+        {
+          "filename": "AS7700 EU AS 9330056.png",
+          "model": "AS7700 EU AS 9330056"
+        },
+        {
+          "filename": "AS8606 EU AS 9330046.png",
+          "model": "AS8606 EU AS 9330046"
+        },
+        {
+          "filename": "AS8810 EU AS 9330040.png",
+          "model": "AS8810 EU AS 9330040"
+        },
+        {
+          "filename": "AS8811 EU AS 9330048.png",
+          "model": "AS8811 EU AS 9330048"
+        },
+        {
+          "filename": "AS8901 EU AS 9330049.png",
+          "model": "AS8901 EU AS 9330049"
+        },
+        {
+          "filename": "AS8930 EU AS 9330042.png",
+          "model": "AS8930 EU AS 9330042"
+        },
+        {
+          "filename": "AS9350 EU AS 9330043.png",
+          "model": "AS9350 EU AS 9330043"
+        },
+        {
+          "filename": "AS9880 EU AS 9330041.png",
+          "model": "AS9880 EU AS 9330041"
+        },
+        {
+          "filename": "BHT2000A EU BHT 9329951.png",
+          "model": "BHT2000A EU BHT 9329951"
+        },
+        {
+          "filename": "BHT250 EU BHT 9329954.png",
+          "model": "BHT250 EU BHT 9329954"
+        },
+        {
+          "filename": "BKT4000 EU BKT 9329963.png",
+          "model": "BKT4000 EU BKT 9329963"
+        },
+        {
+          "filename": "CB7400 EU CB 9329819.png",
+          "model": "CB7400 EU CB 9329819"
+        },
+        {
+          "filename": "CB7480 EU CB 9329818.png",
+          "model": "CB7480 EU CB 9329818"
+        },
+        {
+          "filename": "CB9800 EU CB 9329822.png",
+          "model": "CB9800 EU CB 9329822"
+        },
+        {
+          "filename": "CI41MS5 EU CI 9329886.png",
+          "model": "CI41MS5 EU CI 9329886"
+        },
+        {
+          "filename": "CI4740 EU CI 9329925.png",
+          "model": "CI4740 EU CI 9329925"
+        },
+        {
+          "filename": "CI5318 EU CI 9329927.png",
+          "model": "CI5318 EU CI 9329927"
+        },
+        {
+          "filename": "CI5319 EU CI 9329921.png",
+          "model": "CI5319 EU CI 9329921"
+        },
+        {
+          "filename": "CI53W EU CI 9329894.png",
+          "model": "CI53W EU CI 9329894"
+        },
+        {
+          "filename": "CI5519 EU CI 9329926.png",
+          "model": "CI5519 EU CI 9329926"
+        },
+        {
+          "filename": "CI5538 EU CI 9329922.png",
+          "model": "CI5538 EU CI 9329922"
+        },
+        {
+          "filename": "CI5805 EU CI 9329919.png",
+          "model": "CI5805 EU CI 9329919"
+        },
+        {
+          "filename": "CI5860 EU CI 9329916.png",
+          "model": "CI5860 EU CI 9329916"
+        },
+        {
+          "filename": "CI5901 EU CI 9329933.png",
+          "model": "CI5901 EU CI 9329933"
+        },
+        {
+          "filename": "CI6325 EU CI 9329929.png",
+          "model": "CI6325 EU CI 9329929"
+        },
+        {
+          "filename": "CI6525 EU CI 9329941.png",
+          "model": "CI6525 EU CI 9329941"
+        },
+        {
+          "filename": "CI6X10 EU CI 9329898.png",
+          "model": "CI6X10 EU CI 9329898"
+        },
+        {
+          "filename": "CI83V6 EU CI 9329887.png",
+          "model": "CI83V6 EU CI 9329887"
+        },
+        {
+          "filename": "CI8605 EU CI 9329928.png",
+          "model": "CI8605 EU CI 9329928"
+        },
+        {
+          "filename": "CI8930 EU CI 9329938.png",
+          "model": "CI8930 EU CI 9329938"
+        },
+        {
+          "filename": "CI89H1 EU CI 9329896.png",
+          "model": "CI89H1 EU CI 9329896"
+        },
+        {
+          "filename": "CI9132 EU CI 9329937.png",
+          "model": "CI9132 EU CI 9329937"
+        },
+        {
+          "filename": "CI91AW EU CI 9329897.png",
+          "model": "CI91AW EU CI 9329897"
+        },
+        {
+          "filename": "CI91W1B EU CI 9329895.png",
+          "model": "CI91W1B EU CI 9329895"
+        },
+        {
+          "filename": "CI91X1 EU CI 9329901.png",
+          "model": "CI91X1 EU CI 9329901"
+        },
+        {
+          "filename": "CI93X5 EU CI 9329909.png",
+          "model": "CI93X5 EU CI 9329909"
+        },
+        {
+          "filename": "CI95 EU CI 9329907.png",
+          "model": "CI95 EU CI 9329907"
+        },
+        {
+          "filename": "CI951 EU CI 9329902.png",
+          "model": "CI951 EU CI 9329902"
+        },
+        {
+          "filename": "CI9532 EU CI 9329931.png",
+          "model": "CI9532 EU CI 9329931"
+        },
+        {
+          "filename": "CI9533 EU CI 9329932.png",
+          "model": "CI9533 EU CI 9329932"
+        },
+        {
+          "filename": "CI96W1 EU CI 9329912.png",
+          "model": "CI96W1 EU CI 9329912"
+        },
+        {
+          "filename": "CI98X8 EU CI 9329904.png",
+          "model": "CI98X8 EU CI 9329904"
+        },
+        {
+          "filename": "D4740 EU DR 9330203.png",
+          "model": "D4740 EU DR 9330203"
+        },
+        {
+          "filename": "D4807 EU DR 9330204.png",
+          "model": "D4807 EU DR 9330204"
+        },
+        {
+          "filename": "D5215 EU DR 9330197.png",
+          "model": "D5215 EU DR 9330197"
+        },
+        {
+          "filename": "D5216 EU DR 9330190.png",
+          "model": "D5216 EU DR 9330190"
+        },
+        {
+          "filename": "D5219 EU DR 9330181.png",
+          "model": "D5219 EU DR 9330181"
+        },
+        {
+          "filename": "D5220 EU DR 9330202.png",
+          "model": "D5220 EU DR 9330202"
+        },
+        {
+          "filename": "D5305 EU DR 9330185.png",
+          "model": "D5305 EU DR 9330185"
+        },
+        {
+          "filename": "D5706 EU DR 9330186.png",
+          "model": "D5706 EU DR 9330186"
+        },
+        {
+          "filename": "D5707 EU DR 9330180.png",
+          "model": "D5707 EU DR 9330180"
+        },
+        {
+          "filename": "D5715 EU DR 9330163.png",
+          "model": "D5715 EU DR 9330163"
+        },
+        {
+          "filename": "D5720 EU DR 9330164.png",
+          "model": "D5720 EU DR 9330164"
+        },
+        {
+          "filename": "D5805 EU DR 9330172.png",
+          "model": "D5805 EU DR 9330172"
+        },
+        {
+          "filename": "D5901 EU DR 9330167.png",
+          "model": "D5901 EU DR 9330167"
+        },
+        {
+          "filename": "D6077 EU DR 9330170.png",
+          "model": "D6077 EU DR 9330170"
+        },
+        {
+          "filename": "D6078 EU DR 9330173.png",
+          "model": "D6078 EU DR 9330173"
+        },
+        {
+          "filename": "D6098 EU DR 9330161.png",
+          "model": "D6098 EU DR 9330161"
+        },
+        {
+          "filename": "D7777 EU DR 9330165.png",
+          "model": "D7777 EU DR 9330165"
+        },
+        {
+          "filename": "EC6077 EU DR 9330176.png",
+          "model": "EC6077 EU DR 9330176"
+        },
+        {
+          "filename": "EC8930 EU DR 9330158.png",
+          "model": "EC8930 EU DR 9330158"
+        },
+        {
+          "filename": "EC9001 EU DR 9330159.png",
+          "model": "EC9001 EU DR 9330159"
+        },
+        {
+          "filename": "H5670 EU HR 9329868.png",
+          "model": "H5670 EU HR 9329868"
+        },
+        {
+          "filename": "H9100 EU HR 9329866.png",
+          "model": "H9100 EU HR 9329866"
+        },
+        {
+          "filename": "HC1500 EU HC 9330117.png",
+          "model": "HC1500 EU HC 9330117"
+        },
+        {
+          "filename": "HC3000 EU HC 9330119.png",
+          "model": "HC3000 EU HC 9330119"
+        },
+        {
+          "filename": "HC3000GP EU HC 9330120.png",
+          "model": "HC3000GP EU HC 9330120"
+        },
+        {
+          "filename": "HC363C EU HC 9330109.png",
+          "model": "HC363C EU HC 9330109"
+        },
+        {
+          "filename": "HC4000 EU HC 9330110.png",
+          "model": "HC4000 EU HC 9330110"
+        },
+        {
+          "filename": "HC4250 EU HC 9330123.png",
+          "model": "HC4250 EU HC 9330123"
+        },
+        {
+          "filename": "HC4300 EU HC 9330125.png",
+          "model": "HC4300 EU HC 9330125"
+        },
+        {
+          "filename": "HC450 EU HC 9330113.png",
+          "model": "HC450 EU HC 9330113"
+        },
+        {
+          "filename": "HC500 EU HC 9330114.png",
+          "model": "HC500 EU HC 9330114"
+        },
+        {
+          "filename": "HC5000 EU HC 9330112.png",
+          "model": "HC5000 EU HC 9330112"
+        },
+        {
+          "filename": "HC5020 EU HC 9330096.png",
+          "model": "HC5020 EU HC 9330096"
+        },
+        {
+          "filename": "HC5035 EU HC 9330093.png",
+          "model": "HC5035 EU HC 9330093"
+        },
+        {
+          "filename": "HC5150 EU HC 9330088.png",
+          "model": "HC5150 EU HC 9330088"
+        },
+        {
+          "filename": "HC5156 EU HC 9330104.png",
+          "model": "HC5156 EU HC 9330104"
+        },
+        {
+          "filename": "HC5200 EU HC 9330107.png",
+          "model": "HC5200 EU HC 9330107"
+        },
+        {
+          "filename": "HC550 EU HC 9330122.png",
+          "model": "HC550 EU HC 9330122"
+        },
+        {
+          "filename": "HC5810 EU HC 9330098.png",
+          "model": "HC5810 EU HC 9330098"
+        },
+        {
+          "filename": "HC5811 EU HC 9330106.png",
+          "model": "HC5811 EU HC 9330106"
+        },
+        {
+          "filename": "HC5880 EU HC 9330095.png",
+          "model": "HC5880 EU HC 9330095"
+        },
+        {
+          "filename": "HC6000 EU HC 9330085.png",
+          "model": "HC6000 EU HC 9330085"
+        },
+        {
+          "filename": "HC7110 EU HC 9330102.png",
+          "model": "HC7110 EU HC 9330102"
+        },
+        {
+          "filename": "HC8005 EU HC 9330105.png",
+          "model": "HC8005 EU HC 9330105"
+        },
+        {
+          "filename": "HC9100 EU HC 9330086.png",
+          "model": "HC9100 EU HC 9330086"
+        },
+        {
+          "filename": "HG3000 EU HG 9329856.png",
+          "model": "HG3000 EU HG 9329856"
+        },
+        {
+          "filename": "KF40E EU HR 9329865.png",
+          "model": "KF40E EU HR 9329865"
+        },
+        {
+          "filename": "MB320C EU MB 9329992.png",
+          "model": "MB320C EU MB 9329992"
+        },
+        {
+          "filename": "MB4000 EU MB 9329996.png",
+          "model": "MB4000 EU MB 9329996"
+        },
+        {
+          "filename": "MB4046 EU MB 9329994.png",
+          "model": "MB4046 EU MB 9329994"
+        },
+        {
+          "filename": "MB4047 EU MB 9329990.png",
+          "model": "MB4047 EU MB 9329990"
+        },
+        {
+          "filename": "MB5000 EU MB 9330000.png",
+          "model": "MB5000 EU MB 9330000"
+        },
+        {
+          "filename": "MB7050 EU MB 9329998.png",
+          "model": "MB7050 EU MB 9329998"
+        },
+        {
+          "filename": "MB905 EU MB 9330001.png",
+          "model": "MB905 EU MB 9330001"
+        },
+        {
+          "filename": "PG2100 EU PG 9329861.png",
+          "model": "PG2100 EU PG 9329861"
+        },
+        {
+          "filename": "PG2120 EU PG 9329852.png",
+          "model": "PG2120 EU PG 9329852"
+        },
+        {
+          "filename": "PG4000 EU PG 9329854.png",
+          "model": "PG4000 EU PG 9329854"
+        },
+        {
+          "filename": "PG5000 EU PG 9329855.png",
+          "model": "PG5000 EU PG 9329855"
+        },
+        {
+          "filename": "PG6000 EU PG 9329851.png",
+          "model": "PG6000 EU PG 9329851"
+        },
+        {
+          "filename": "PG6030 EU PG 9329858.png",
+          "model": "PG6030 EU PG 9329858"
+        },
+        {
+          "filename": "PG6130 EU PG 9329849.png",
+          "model": "PG6130 EU PG 9329849"
+        },
+        {
+          "filename": "PG760 EU PG 9329848.png",
+          "model": "PG760 EU PG 9329848"
+        },
+        {
+          "filename": "PG780 EU PG 9329857.png",
+          "model": "PG780 EU PG 9329857"
+        },
+        {
+          "filename": "S1370 EU 9330258.png",
+          "model": "S1370 EU 9330258"
+        },
+        {
+          "filename": "S1510 EU 9330259.png",
+          "model": "S1510 EU 9330259"
+        },
+        {
+          "filename": "S2880 EU 9330263.png",
+          "model": "S2880 EU 9330263"
+        },
+        {
+          "filename": "S3500 EU 9330266.png",
+          "model": "S3500 EU 9330266"
+        },
+        {
+          "filename": "S3580 EU ST 9330257.png",
+          "model": "S3580 EU ST 9330257"
+        },
+        {
+          "filename": "S3700 EU 9330269.png",
+          "model": "S3700 EU 9330269"
+        },
+        {
+          "filename": "S4740 EU 9330264.png",
+          "model": "S4740 EU 9330264"
+        },
+        {
+          "filename": "S4807 EU 9330278.png",
+          "model": "S4807 EU 9330278"
+        },
+        {
+          "filename": "S5305 EU 9330270.png",
+          "model": "S5305 EU 9330270"
+        },
+        {
+          "filename": "S5505 EU 9330277.png",
+          "model": "S5505 EU 9330277"
+        },
+        {
+          "filename": "S5515 EU 9330276.png",
+          "model": "S5515 EU 9330276"
+        },
+        {
+          "filename": "S5525 EU 9330271.png",
+          "model": "S5525 EU 9330271"
+        },
+        {
+          "filename": "S5527 EU 9330282.png",
+          "model": "S5527 EU 9330282"
+        },
+        {
+          "filename": "S5805 EU 9330274.png",
+          "model": "S5805 EU 9330274"
+        },
+        {
+          "filename": "S5860 EU 9330299.png",
+          "model": "S5860 EU 9330299"
+        },
+        {
+          "filename": "S5901 EU 9330289.png",
+          "model": "S5901 EU 9330289"
+        },
+        {
+          "filename": "S6077 EU 9330288.png",
+          "model": "S6077 EU 9330288"
+        },
+        {
+          "filename": "S6078 EU 9330305.png",
+          "model": "S6078 EU 9330305"
+        },
+        {
+          "filename": "S6308 EU 9330287.png",
+          "model": "S6308 EU 9330287"
+        },
+        {
+          "filename": "S6500 EU 9330302.png",
+          "model": "S6500 EU 9330302"
+        },
+        {
+          "filename": "S6505 EU 9330286.png",
+          "model": "S6505 EU 9330286"
+        },
+        {
+          "filename": "S6606 EU 9330300.png",
+          "model": "S6606 EU 9330300"
+        },
+        {
+          "filename": "S6606B EU 9330295.png",
+          "model": "S6606B EU 9330295"
+        },
+        {
+          "filename": "S6700 EU 9330313.png",
+          "model": "S6700 EU 9330313"
+        },
+        {
+          "filename": "S7300 EU 9330319.png",
+          "model": "S7300 EU 9330319"
+        },
+        {
+          "filename": "S7307 EU 9330315.png",
+          "model": "S7307 EU 9330315"
+        },
+        {
+          "filename": "S7350 EU 9330322.png",
+          "model": "S7350 EU 9330322"
+        },
+        {
+          "filename": "S7710 EU 9330323.png",
+          "model": "S7710 EU 9330323"
+        },
+        {
+          "filename": "S7750 EU 9330314.png",
+          "model": "S7750 EU 9330314"
+        },
+        {
+          "filename": "S7970 EU 9330311.png",
+          "model": "S7970 EU 9330311"
+        },
+        {
+          "filename": "S8500 EU 9330324.png",
+          "model": "S8500 EU 9330324"
+        },
+        {
+          "filename": "S8500GP EU DR 9329876.png",
+          "model": "S8500GP EU DR 9329876"
+        },
+        {
+          "filename": "S8540 EU 9330333.png",
+          "model": "S8540 EU 9330333"
+        },
+        {
+          "filename": "S8550 EU 9330331.png",
+          "model": "S8550 EU 9330331"
+        },
+        {
+          "filename": "S8590 EU 9330337.png",
+          "model": "S8590 EU 9330337"
+        },
+        {
+          "filename": "S8593 EU 9330330.png",
+          "model": "S8593 EU 9330330"
+        },
+        {
+          "filename": "S8598 EU 9330329.png",
+          "model": "S8598 EU 9330329"
+        },
+        {
+          "filename": "S8605 EU 9330335.png",
+          "model": "S8605 EU 9330335"
+        },
+        {
+          "filename": "S8670 EU 9330332.png",
+          "model": "S8670 EU 9330332"
+        },
+        {
+          "filename": "S8901 EU 9330348.png",
+          "model": "S8901 EU 9330348"
+        },
+        {
+          "filename": "S8930 EU 9330340.png",
+          "model": "S8930 EU 9330340"
+        },
+        {
+          "filename": "S9001 EU 9330338.png",
+          "model": "S9001 EU 9330338"
+        },
+        {
+          "filename": "S9100 EU 9330343.png",
+          "model": "S9100 EU 9330343"
+        },
+        {
+          "filename": "S9100B EU 9330353.png",
+          "model": "S9100B EU 9330353"
+        },
+        {
+          "filename": "S9150B EU 9330365.png",
+          "model": "S9150B EU 9330365"
+        },
+        {
+          "filename": "S9300 EU 9330363.png",
+          "model": "S9300 EU 9330363"
+        },
+        {
+          "filename": "S9350 EU 9330366.png",
+          "model": "S9350 EU 9330366"
+        },
+        {
+          "filename": "S9500 EU 9330368.png",
+          "model": "S9500 EU 9330368"
+        },
+        {
+          "filename": "S9501 EU 9330355.png",
+          "model": "S9501 EU 9330355"
+        },
+        {
+          "filename": "S9600 EU 9330361.png",
+          "model": "S9600 EU 9330361"
+        },
+        {
+          "filename": "S9880 EU 9330354.png",
+          "model": "S9880 EU 9330354"
+        },
+        {
+          "filename": "WDF310 EU WDF 9328154.png",
+          "model": "WDF310 EU WDF 9328154"
+        },
+        {
+          "filename": "WFS310 EU WFS 9330030.png",
+          "model": "WFS310 EU WFS 9330030"
+        },
+        {
+          "filename": "XR8000 EU RS 9329827.png",
+          "model": "XR8000 EU RS 9329827"
+        }
+  ]
     },
     {
       "name": "WHITE SHARK",
